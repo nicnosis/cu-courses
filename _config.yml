@@ -1,9 +1,9 @@
-baseurl: "/cu-courses"
+baseurl: /cu-courses
+url: http://nicnosis.github.io
 title: CU Courses
 name: Nicolas Aguirre
 github: nicnosis
 # twitter: novonagu
-
 
 
 exclude:
