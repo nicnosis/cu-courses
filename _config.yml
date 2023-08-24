@@ -1,8 +1,10 @@
-# baseurl: /~naguirre
+baseurl: "/cu-courses"
 title: CU Courses
 name: Nicolas Aguirre
 github: nicnosis
 # twitter: novonagu
+
+
 
 exclude:
   - package.json
