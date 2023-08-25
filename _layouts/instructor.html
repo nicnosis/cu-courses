@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>{% include head.html %}</head>
+<body>
+{% if page.term != nil %}
+{% include navs/{{page.term}}-nav.html %}
+{% endif %}
+<div class="container">
+    {% include profile.html %}
+</div>
+{% include footer.html %}
+</body>
+</html>
