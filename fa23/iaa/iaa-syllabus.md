@@ -135,7 +135,7 @@ If you are re-submitting work:
 2. The privilege to revise submitted work is only available for students who submitted substantial work; incomplete or dysfunctional code is not eligible for resubmission. This is at the instructor's discretion.
 3. You may only recover partial points lost.
 
-## Required Readings and Materials
+## Required Materials
 
 ### Software
 Software is a focal point of this course, and an effort was made to ensure that free, cross-platform software will be used wherever possible. Tools, applications, and services prove invaluable in web development.
