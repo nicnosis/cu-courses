@@ -146,12 +146,14 @@ We will use:
 2. Houdini Apprentice
 
 Other requirements:
+
 1. [Computer System & Software Requirements](https://bookstack.clarkson.edu/books/general-knowledge-base/page/technology-recommendations-for-distance-and-online-learning)
 2. [Software Accessibility Policies in General](https://bookstack.clarkson.edu/books/general-knowledge-base/page/accessibility-statements)
 3. [Software Privacy Policies in General](https://bookstack.clarkson.edu/books/general-knowledge-base/page/privacy-policy)
 4. [Contact Helpdesk](https://bookstack.clarkson.edu/books/general-knowledge-base/page/helpdesk-hours-of-operation)
 
 Minimum Technology Skills
+
 1. Use a learning management system
 2. Use e-mail with attachments
 3. Create and submit files in commonly used word processing formats
@@ -232,6 +234,7 @@ This is permitted as long as you:
 You can use generative AI.
 
 However, there are several reasons you should approach it with caution:
+
 1. Excessive use inhibits your ability to learn and memorize code patterns independently
 2. It can stifle human creativity
 3. It is still prone to errors

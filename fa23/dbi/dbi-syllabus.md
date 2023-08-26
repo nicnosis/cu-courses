@@ -20,8 +20,12 @@ Students who complete this course will:
 3. Analyze the role of brands in consumer buying behavior
 
 ## Structure
-@TODO
+This course is divided into four units:
 
+ * Unit One: Brand Identity Foundations
+ * Unit Two: Brand Identity Elements
+ * Unit Three: Process
+ * Unit Four: Launch
 
 
 ## Work
@@ -31,15 +35,15 @@ This class is project-driven, and demands consistent effort inside and outside t
 ### Projects (55 pts.)
 This class features four large-scale projects.
 
-* Project 1 (10 pts.) --- 
-* Project 2 (10 pts.) --- 
-* Project 3 (15 pts.) --- 
-* Project 4 (20 pts.) ---
+* Project 1 (10 pts.) --- Brand Analysis
+* Project 2 (10 pts.) --- Brand Elements
+* Project 3 (15 pts.) --- Visual Identity System
+* Project 4 (20 pts.) --- Website/App
 
-### Homework (25 pts.)
+### Homework (20 pts.)
 This class has homework assignments designed to test and reinforce knowledge from class. 
 
-### Quizzes and Participation (15 pts.)
+### Quizzes and Participation (20 pts.)
 A quiz consists of either (a) an unannounced quiz or (b) an in-class activity. Quizzes are designed to ensure that students are completing their readings, preparing properly, and following along with in-class activities.
 
 Participation is an important element of this class. Being present (physically and mentally) will give you a better experience.
@@ -66,6 +70,7 @@ Unprofessional behavior includes (but is not limited to):
 ### Final
 There is no final exam for this class; you will present a final project instead.
 
+<div style="page-break-after: always;"></div>
 
 ## Grading
 ### Points
@@ -77,8 +82,8 @@ There are a total of **100** points in this class. The grade is divided as follo
 | Project 2             |      10 |
 | Project 3             |      15 |
 | Project 4             |      20 |
-| Homeworks             |      25 |
-| Quizzes/Participation |      15 |
+| Homeworks             |      20 |
+| Quizzes/Participation |      20 |
 | Professionalism       |       5 |
 | **Total**             | **100** |
 
@@ -103,8 +108,6 @@ Your grade will be assigned as follows:
 | D-    | < 63.0% to 60.0% |
 | F     | < 60.0% to 0.0%  |
 
-
-
 Grading criteria will be given for each individual assignment.
 
 ## Revisions
@@ -126,12 +129,14 @@ ISBN: 978-1118980828
 You will need access to Adobe Creative Cloud (esp. Photoshop and Illustrator). The CEC has them installed.
 
 Other requirements:
+
 1. [Computer System & Software Requirements](https://bookstack.clarkson.edu/books/general-knowledge-base/page/technology-recommendations-for-distance-and-online-learning)
 2. [Software Accessibility Policies in General](https://bookstack.clarkson.edu/books/general-knowledge-base/page/accessibility-statements)
 3. [Software Privacy Policies in General](https://bookstack.clarkson.edu/books/general-knowledge-base/page/privacy-policy)
 4. [Contact Helpdesk](https://bookstack.clarkson.edu/books/general-knowledge-base/page/helpdesk-hours-of-operation)
 
 Minimum Technology Skills
+
 1. Use a learning management system
 2. Use e-mail with attachments
 3. Create and submit files in commonly used word processing formats
@@ -177,7 +182,7 @@ Example of a good email subject line: _"[COMM346 MW 1:30pm] Using the liquify to
 
 If you need help with a project, you need to give me a way to access these files (e.g. Google Drive link)
 
-__It can be difficult to fix technical via e-mail.__ I'll do my best, but you should consider talking with me after class, or coming to office hours if you're struggling with an assignment.
+__It can be difficult to fix technical issues via e-mail.__ I'll do my best, but you should consider talking with me after class, or coming to office hours if you're struggling with an assignment.
 
 Students should know that an e-mail response may take __up to 72 hours__ depending on the time of the semester.
 
@@ -204,6 +209,7 @@ This is permitted as long as you:
 You can use generative AI.
 
 However, there are several reasons you should approach it with caution:
+
 1. It can stifle human creativity
 2. It is still prone to errors
 3. It doesn't fully understand the context in which it is generating content
