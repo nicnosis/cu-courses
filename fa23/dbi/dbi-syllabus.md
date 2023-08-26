@@ -117,6 +117,10 @@ If you are re-submitting work:
 3. You may only recover partial points lost.
 
 ## Required Materials
+### Textbook
+[Designing Brand Identity: An Essential Guide for the Whole Branding Team](https://a.co/d/b27IXZD) by Alina Wheeler _(5th Edition)_
+
+ISBN: 978-1118980828
 
 ### Software
 You will need access to Adobe Creative Cloud (esp. Photoshop and Illustrator). The CEC has them installed.

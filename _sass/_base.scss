@@ -5,13 +5,17 @@
     margin-bottom: 1em;
 }
 
-
 // ===== NAV =====
 .nav-item.active {
     border-bottom: 2px solid $primaryColor;
 }
 .navbar-light .navbar-nav .active.active-color>.nav-link {
     color: $primaryColor;
+}
+
+// ===== MAIN-CONTENT =====
+.main-content {
+    margin-top: 2em;
 }
 
 // ===== PROFILE =====

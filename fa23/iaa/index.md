@@ -6,7 +6,10 @@ highlight: home
 term: 'fa23'
 course: 'iaa'
 ---
-## week 1
+
+# INTERACTIVE &amp; ALGORITHMIC ART
+
+## Week 1
 
 ### In Class
 #### Monday
