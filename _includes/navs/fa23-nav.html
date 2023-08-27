@@ -21,18 +21,9 @@
 
         <!-- Collapsible wrapper -->
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <!-- Navbar brand -->
-            <!--
-            <a class="navbar-brand mt-2 mt-lg-0" href="#">
-                <img
-                        src="https://mdbcdn.b-cdn.net/img/logo/mdb-transaprent-noshadows.webp"
-                        height="15"
-                        alt="MDB Logo"
-                        loading="lazy"
-                />
-            </a> -->
-
-
+            <!-- BRAND -->
+            <a class="navbar-brand mb-0 h1" href="{{path}}/../..">{{page.course}}</a>
+            <!-- END BRAND -->
 
             <!-- ===== LINKS ===== -->
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -43,7 +34,7 @@
                 <li class="nav-item" id="nav-syllabus"><a class="nav-link" href="{{path}}/{{page.course}}-syllabus.pdf">syllabus</a></li>
                 <!--END HOME, INSTRUCTOR, SYLLABUS-->
 
-                {% if page.course == 'iaa' %}
+                {% if page.course == 'iaa' or page.course == 'dbi' %}
                 <!-- INSPIRATION-->
                 <li class="nav-item dropdown" id="nav-inspiration"><a class="nav-link" href="{{path}}/inspiration.html">inspiration</a></li>
                 <!--END INSPIRATION-->
