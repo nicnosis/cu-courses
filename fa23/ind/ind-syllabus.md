@@ -112,6 +112,14 @@ If you are re-submitting work:
 3. You may only recover partial points lost.
 
 ## Required Materials
+### Texts
+This is tentative; please wait to speak with me before you purchase these:
+
+Cole Nussbaumer Knaflic. _Storytelling with Data_
+
+Joshua N. Milligan. _Learning Tableau 2022_
+ * Exercise file available on [GitHub](https://github.com/PacktPublishing/Learning-Tableau-2022)
+
 
 ### Software
 Software is a focal point of this course, and an effort was made to ensure that free, cross-platform software will be used wherever possible.

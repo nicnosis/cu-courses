@@ -14,6 +14,7 @@ course: 'ind'
 ### In Class
 #### Monday
 * `take` [this pre-test](https://forms.gle/9ZjP2fr4meA2b1K6A)
+* `sign up` for [Tableau Cloud](https://www.tableau.com/trial/tableau-cloud)
 
 
 ### At Home
