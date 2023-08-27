@@ -29,7 +29,6 @@ I'd recommend installing the [Muzli](https://chrome.google.com/webstore/detail/m
 1. [10 Great Places to Find Free Datasets for Your Next Project](https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/)
 2. [ProPublica Data Store](https://www.propublica.org/datastore/)
 3. [Kaggle Datasets](https://www.kaggle.com/datasets)
-4. 
 
 
 ### For general design work

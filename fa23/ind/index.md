@@ -7,7 +7,7 @@ term: 'fa23'
 course: 'ind'
 ---
 
-# INFORMATION DESIGN
+<h1 class="display-1">Information Design</h1>
 
 ## Week 1
 

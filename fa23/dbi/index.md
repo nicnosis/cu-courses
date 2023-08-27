@@ -7,7 +7,7 @@ term: 'fa23'
 course: 'dbi'
 ---
 
-# DESIGNING BRAND IDENTITY
+<h1 class="display-1">Designing Brand Identity</h1>
 
 ## Week 1
 

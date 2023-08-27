@@ -1,4 +1,7 @@
-/* COLORS AND FONTS */
+/* ===== COLORS AND FONTS ===== */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap');
+
+
 //https://colorhunt.co/palette/133349
 $palette: #ff8f56, #ff5959, #984a59, #60424c;
 
@@ -17,7 +20,7 @@ code.highlighter-rouge {
 }
 
 
-$primaryFont: 'Open Sans', sans-serif;
-$secondaryFont: 'Oswald', sans-serif;
+$primaryFont: 'Montserrat', sans-serif;
+$secondaryFont: 'Montserrat', sans-serif;
 $codeFont: Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
-/* END COLORS AND FONTS */
+/* ===== END COLORS AND FONTS ===== */

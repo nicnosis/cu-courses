@@ -1,3 +1,25 @@
+// ===== FONTS =====
+body {
+    font-family: $primaryFont;
+}
+
+h2, h3 {
+    color: $primaryColor;
+}
+
+h2 {
+    font-size: 2.5em;
+    border-bottom: 1px solid #ccc;
+}
+
+h3 {
+    color: $boldColor;
+}
+
+h4 {
+    font-size: 1em;
+}
+
 // ===== COURSE SELECT =====
 .course-link {
     display: block;

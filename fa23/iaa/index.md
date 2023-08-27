@@ -7,7 +7,7 @@ term: 'fa23'
 course: 'iaa'
 ---
 
-# INTERACTIVE &amp; ALGORITHMIC ART
+<h1 class="display-1">Interactive &amp; Algorithmic Art</h1>
 
 ## Week 1
 
