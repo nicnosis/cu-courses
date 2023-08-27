@@ -18,3 +18,4 @@ course: 'ind'
 
 ### At Home
 * `read` the syllabus
+* `get` your textbooks (listen to the instructor for specifics)
