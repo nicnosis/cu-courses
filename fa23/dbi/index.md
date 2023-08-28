@@ -13,8 +13,10 @@ course: 'dbi'
 
 ### In Class
 #### Monday
+* `discussion`: 1984
 * `take` [this pre-test](https://forms.gle/jA3CP9HdNAnhPZxQ9)
-
+* `discussion`: brands
+* `inspiration`: [volusion](https://www.behance.net/gallery/55623181/Volusion-Branding)
 
 ### At Home
 * `read` the syllabus

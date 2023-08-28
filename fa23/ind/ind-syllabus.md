@@ -103,7 +103,7 @@ Your grade will be assigned as follows:
 Grading criteria will be given for each individual assignment.
 
 ## Revisions
-When software is created in a professional environment, changes and revisions are common. Factoring that software development is an iterative process, students are __sometimes__ allowed to revise and resubmit assignments. Re-submitting work is a __privilege__ granted at the instructor's discretion.
+When work is created in a professional environment, changes and revisions are common. Factoring that creative development is an iterative process, students are __sometimes__ allowed to revise and resubmit assignments. Re-submitting work is a __privilege__ granted at the instructor's discretion.
 
 If you are re-submitting work:
 
