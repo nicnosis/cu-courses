@@ -38,6 +38,12 @@
                 <li class="nav-item dropdown" id="nav-inspiration"><a class="nav-link" href="{{path}}/inspiration.html">inspiration</a></li>
                 <!--END INSPIRATION-->
 
+                <!-- ASSIGNMENTS -->
+                {% if page.course == 'iaa' %}
+                    {% include navs/{{page.course}}-assignments.html %}
+                {% endif %}
+                <!-- END ASSIGNMENTS -->
+
             </ul>
             <!-- ===== END LINKS ===== -->
 

@@ -18,6 +18,7 @@ course: 'iaa'
 * `sign up` on [CodePen](https://codepen.io)
 * `watch` **hello p5.js**
 * `check out` [p5.js docs](https://p5js.org/reference/)
+* `this is an example`
 
 #### Wednesday
 * `codepen` [1.1: primitives](https://codepen.io/novonagu/pen/YzKVjGj)
@@ -34,7 +35,7 @@ course: 'iaa'
 
 ### At Home
 * `read` the syllabus
-* `begin` Homework One
+* `begin` [Homework One](assignments/hw1.html)
 * `read` coursescript notes on [drawing](https://web.archive.org/web/20220331082944/https://coursescript.com/notes/interactivecomputing/drawing/index.html)
 * `watch` shiffman 1.3 [shapes and drawing](https://youtu.be/c3TeLi6Ns1E)
 * `watch` shiffman 1.4 [color](https://youtu.be/riiJTF5-N7c)
