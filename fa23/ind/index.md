@@ -17,7 +17,12 @@ course: 'ind'
 * `download` [bad-graphs.zip](img/bad-graphs.zip)
 * `sign up` for [Tableau Cloud](https://www.tableau.com/trial/tableau-cloud)
 
+#### Wednesday
+* `inspiration`: omicron graph, NYTimes (from [dataviz-inspiration.com](https://www.dataviz-inspiration.com/))
+* `get`: [the big idea pdf](https://drive.google.com/drive/folders/1SRxDI1hWDe3wGR7TGd16isgwHt6t-OJg)
+
 
 ### At Home
-* `read` the syllabus
+* `read` the [syllabus](ind-syllabus.pdf)
 * `get` your textbooks (listen to the instructor for specifics)
+* `read` Chapter 1 of _Storytelling with Data_

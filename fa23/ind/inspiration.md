@@ -17,12 +17,13 @@ I'd recommend installing the [Muzli](https://chrome.google.com/webstore/detail/m
 
 ### Info. Design / Data Viz. work
 1. [ProPublica](https://www.propublica.org/)
-2. [flowingdata](https://flowingdata.com/)
-3. [Axios](https://www.axios.com/)
-4. [fivethirtyeight](https://fivethirtyeight.com/)
-5. [Financial Times](https://www.ft.com/)
-6. [NY Times](https://www.nytimes.com/)
-7. [Washington Post](https://www.washingtonpost.com/)
+2. [dataviz-inspiration.com](https://www.dataviz-inspiration.com/)
+3. [flowingdata](https://flowingdata.com/)
+4. [Axios](https://www.axios.com/)
+5. [fivethirtyeight](https://fivethirtyeight.com/)
+6. [Financial Times](https://www.ft.com/)
+7. [NY Times](https://www.nytimes.com/)
+8. [Washington Post](https://www.washingtonpost.com/)
 
 
 ### Where to get data?

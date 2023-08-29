@@ -19,5 +19,5 @@ course: 'dbi'
 * `inspiration`: [volusion](https://www.behance.net/gallery/55623181/Volusion-Branding)
 
 ### At Home
-* `read` the syllabus
+* `read` the [syllabus](dbi-syllabus.pdf)
 * `get` the [textbook](https://a.co/d/b27IXZD)

@@ -34,7 +34,7 @@ course: 'iaa'
   * You can use any other method in the [reference](https://p5js.org/reference/) if you like.
 
 ### At Home
-* `read` the syllabus
+* `read` the [syllabus](iaa-syllabus.pdf)
 * `begin` [Homework One](assignments/hw1.html)
 * `read` coursescript notes on [drawing](https://web.archive.org/web/20220331082944/https://coursescript.com/notes/interactivecomputing/drawing/index.html)
 * `watch` shiffman 1.3 [shapes and drawing](https://youtu.be/c3TeLi6Ns1E)
