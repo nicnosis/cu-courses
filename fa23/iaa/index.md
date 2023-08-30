@@ -24,6 +24,7 @@ course: 'iaa'
 * `codepen` [1.1: primitives](https://codepen.io/novonagu/pen/YzKVjGj)
 * `codepen` [1.2: challenge: primitives](https://codepen.io/novonagu/pen/RwbVBZE)
 * `codepen` [1.3: color values](https://codepen.io/novonagu/pen/aboWjLE)
+* `inspiration`: [reference / examples / array of objects](https://p5js.org/examples/objects-array-of-objects.html)
 * Groups Exercise:
   * [keyIsPressed](https://p5js.org/reference/#/p5/keyIsPressed)
   * [quad](https://p5js.org/reference/#/p5/quad)
