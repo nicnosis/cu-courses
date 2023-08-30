@@ -18,6 +18,12 @@ course: 'dbi'
 * `discussion`: brands
 * `inspiration`: [volusion](https://www.behance.net/gallery/55623181/Volusion-Branding)
 
+#### Wednesday
+* `inspiration`: [elegantseagulls](https://www.elegantseagulls.com/)
+  * Use the [web critique outline](web-crit.html)
+* `participation`: write down your answers to the exercises and hand them in. Please make sure your name is on it.
+* if time permits: beginning `Illustrator`
+
 ### At Home
 * `read` the [syllabus](dbi-syllabus.pdf)
-* `get` the [textbook](https://a.co/d/b27IXZD)
+* `get` the [textbook](https://a.co/d/b27IXZD). Read `p. 1-18` _(up to Customer Experience)_
