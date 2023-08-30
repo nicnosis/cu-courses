@@ -23,15 +23,16 @@ course: 'iaa'
 #### Wednesday
 * `codepen` [1.1: primitives](https://codepen.io/novonagu/pen/YzKVjGj)
 * `codepen` [1.2: challenge: primitives](https://codepen.io/novonagu/pen/RwbVBZE)
-    * When you finish, submit your URL for today's `participation`
 * `codepen` [1.3: color values](https://codepen.io/novonagu/pen/aboWjLE)
-* Groups:
+* Groups Exercise:
   * [keyIsPressed](https://p5js.org/reference/#/p5/keyIsPressed)
   * [quad](https://p5js.org/reference/#/p5/quad)
   * [box](https://p5js.org/reference/#/p5/box)
   * [shearX / shearY](https://p5js.org/reference/#/p5/shearX)
   * [mouseX / mouseY](https://p5js.org/reference/#/p5/mouseX)
   * You can use any other method in the [reference](https://p5js.org/reference/) if you like.
+* When you finish, submit your URL __with everyone's names__ for today's `participation`
+  * [submit here](https://forms.gle/Aw1wjXpKuCmpYQTh7)
 
 ### At Home
 * `read` the [syllabus](iaa-syllabus.pdf)
