@@ -39,9 +39,17 @@
                 <!--END INSPIRATION-->
 
                 <!-- ASSIGNMENTS -->
-                {% if page.course == 'iaa' %}
-                    {% include navs/{{page.course}}-assignments.html %}
-                {% endif %}
+                <!-- Dropdown -->
+                <li class="nav-item dropdown" id="nav-assignments">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-mdb-toggle="dropdown" aria-expanded="false">
+                        Assignments
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        {% if page.course == 'iaa' or page.course == 'ind' %}
+                        {% include navs/{{page.course}}-assignments.html %}
+                        {% endif %}
+                    </ul>
+                </li>
                 <!-- END ASSIGNMENTS -->
 
             </ul>
