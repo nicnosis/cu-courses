@@ -1,9 +1,7 @@
 /* ===== PALETTE ===== */
-//https://colorhunt.co/palette/133349
-$palette: #ff8f56, #ff5959, #984a59, #60424c;
-
-$primaryColor: #ff5959;
-$boldColor: #984a59;
+//https://colorhunt.co/palette/ffbb5cff9b50e25e3ec63d2f
+$primaryColor: #FD841F;
+$boldColor: #E14D2A;
 $gray: rgba(0, 0, 0, 0.15);
 
 .container a {
@@ -11,7 +9,7 @@ $gray: rgba(0, 0, 0, 0.15);
 }
 
 code.highlighter-rouge {
-    color: $primaryColor;
+    color: $boldColor;
     background-color: #e8e8ed;
     text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.8);
 }
