@@ -18,9 +18,11 @@ course: 'iaa'
 * `sign up` on [CodePen](https://codepen.io)
 * `watch` **hello p5.js**
 * `check out` [p5.js docs](https://p5js.org/reference/)
-* `this is an example`
 
-#### Wednesday
+## Week 2
+#### Monday
+* `join` our [Slack Channel](https://join.slack.com/t/cu-fa23/shared_invite/zt-22bghbp1d-2nIKp93mtYWfl_eR594FBg)
+* `fill out` [this form](https://forms.gle/8b37ZbFp46myK8GZ7) to get your invite to the private channel for this course.
 * `codepen` [1.1: primitives](https://codepen.io/novonagu/pen/YzKVjGj)
 * `codepen` [1.2: challenge: primitives](https://codepen.io/novonagu/pen/RwbVBZE)
 * `codepen` [1.3: color values](https://codepen.io/novonagu/pen/aboWjLE)

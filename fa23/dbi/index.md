@@ -18,7 +18,10 @@ course: 'dbi'
 * `discussion`: brands
 * `inspiration`: [volusion](https://www.behance.net/gallery/55623181/Volusion-Branding)
 
-#### Wednesday
+## Week 2
+#### Monday
+* `join` our [Slack Channel](https://join.slack.com/t/cu-fa23/shared_invite/zt-22bghbp1d-2nIKp93mtYWfl_eR594FBg)
+* `fill out` [this form](https://forms.gle/8b37ZbFp46myK8GZ7) to get your invite to the private channel for this course.
 * `inspiration`: [elegantseagulls](https://www.elegantseagulls.com/)
   * Use the [web critique outline](web-crit.html)
 * `participation`: write down your answers to the exercises and hand them in. Please make sure your name is on it.
