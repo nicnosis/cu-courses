@@ -21,5 +21,11 @@
             href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.3.1/mdb.min.css"
             rel="stylesheet"
     />
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles.css">
+
+    <!-- LOAD STYLES-->
+    {% if page.course == nil %}
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles-iaa.css">
+    {% else %}
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles-{{page.course}}.css">
+    {% endif %}
 </head>
