@@ -23,7 +23,8 @@ course: 'iaa'
 #### Monday
 * `fill out` index card (please listen for instructions)
 * `join` our [Slack Channel](https://join.slack.com/t/cu-fa23/shared_invite/zt-22bghbp1d-2nIKp93mtYWfl_eR594FBg)
-  * `fill out` [this form](https://forms.gle/8b37ZbFp46myK8GZ7) to get your invite to the private channel for this course.
+
+[//]: # (  * `fill out` [this form]&#40;https://forms.gle/8b37ZbFp46myK8GZ7&#41; to get your invite to the private channel for this course.)
 * `codepen` [1.1: primitives](https://codepen.io/novonagu/pen/YzKVjGj)
 * `codepen` [1.2: challenge: primitives](https://codepen.io/novonagu/pen/RwbVBZE)
 * `codepen` [1.3: color values](https://codepen.io/novonagu/pen/aboWjLE)

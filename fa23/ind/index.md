@@ -22,7 +22,8 @@ course: 'ind'
 #### Monday
 * `fill out` index card (please listen for instructions)
 * `join` our [Slack Channel](https://join.slack.com/t/cu-fa23/shared_invite/zt-22bghbp1d-2nIKp93mtYWfl_eR594FBg)
-    * `fill out` [this form](https://forms.gle/8b37ZbFp46myK8GZ7) to get your invite to the private channel for this course.
+
+[//]: # (    * `fill out` [this form]&#40;https://forms.gle/8b37ZbFp46myK8GZ7&#41; to get your invite to the private channel for this course.)
 * `inspiration`: omicron graph, NYTimes (from [dataviz-inspiration.com](https://www.dataviz-inspiration.com/))
 * `get`: [the big idea pdf](https://drive.google.com/drive/folders/1SRxDI1hWDe3wGR7TGd16isgwHt6t-OJg)
 * `participation`: submit [here](https://forms.gle/Yqv2fJM4eiLEE51j9). Make sure everybody's name is on it and that the link is shareable.
