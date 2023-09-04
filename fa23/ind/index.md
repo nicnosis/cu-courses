@@ -26,6 +26,7 @@ course: 'ind'
 * `inspiration`: omicron graph, NYTimes (from [dataviz-inspiration.com](https://www.dataviz-inspiration.com/))
 * `get`: [the big idea pdf](https://drive.google.com/drive/folders/1SRxDI1hWDe3wGR7TGd16isgwHt6t-OJg)
 * `participation`: submit [here](https://forms.gle/Yqv2fJM4eiLEE51j9). Make sure everybody's name is on it and that the link is shareable.
+* `check out` the [Learning Tableau 2022 GitHub](https://github.com/PacktPublishing/Learning-Tableau-2022/tree/main)
 
 
 ### At Home
