@@ -34,7 +34,7 @@ For each pair, complete the following sections:
 Provide a brief overview of the historical background and founding of each brand.
 Mention any significant events or milestones that have influenced their brand identities.
 
-Please limit to three bullet points.
+Please limit to three bullet points each.
 
 #### b. Brand Vision and Purpose:
 
@@ -66,12 +66,14 @@ Analyze the tone of their messaging and how it aligns with their brand identitie
 ## Grading
 This is worth `5 pts.`
 
-Please name sure your file is named correctly if you want to receive full credit.
-
-There is no word requirement but please keep this to a maximum of four pages.
+Grading considerations:
+* Please name sure your file is named correctly if you want to receive full credit.
+* There is no word requirement but please try to keep it to four pages.
 
 ### Citing Sources
 No need to use a bibliography but just put the web URLs or the tool you used (e.g. Google Images) at the end.
+
+If you use tools like ChatGPT that's fine just please tell me the specific prompts that you used. Make an attempt to re-write in your own words.
 
 ## Submission
 Submit your link. __Make sure that it is shareable__. Please test this by opening your link in an incognito window.
