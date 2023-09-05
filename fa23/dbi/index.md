@@ -22,12 +22,41 @@ course: 'dbi'
 #### Monday
 * `fill out` index card (please listen for instructions)
 * `join` our [Slack Channel](https://join.slack.com/t/cu-fa23/shared_invite/zt-22bghbp1d-2nIKp93mtYWfl_eR594FBg)
-
-[//]: # (    * `fill out` [this form]&#40;https://forms.gle/8b37ZbFp46myK8GZ7&#41; to get your invite to the private channel for this course.)
 * `inspiration`: [elegantseagulls](https://www.elegantseagulls.com/)
   * Use the [web critique outline](web-crit.html)
 * `participation`: write down your answers to the exercises and hand them in. Please make sure your name is on it.
 * if time permits: beginning `Illustrator`
+
+#### Wednesday
+* `reminders`:
+  * Do the [pre-test](https://forms.gle/jA3CP9HdNAnhPZxQ9) if you haven't already.
+  * Sign up for Slack if you haven't already. Make sure I've got you admitted to the channel `dbi-main`.
+  * Set up a profile photo for Slack.
+
+* `inspiration`: Half of you will look at one inspiration and half will look at the other
+  * Inspiration A: [Yole Supplements](https://www.behance.net/gallery/177416631/Yole-Supplemetn-LOGO-BRAND-IDENTITY-BRANDING)
+  * Inspiration B: [ISO Zero Whey](https://www.behance.net/gallery/175971321/Whey-Protein-Packaging-Design-Supplements)
+  * VISUAL IDENTITY: For each of the following, ask yourself why they chose the design elements they did:
+    * Color
+    * Logo/Wordmark
+    * Typography
+    * Language/Messaging
+    * Imagery/Photo use
+    * Textures/Patterns
+    * Other visual identity elements
+  * POSITIONING: Who do you think this product is intended for?
+
+* `group exercise`
+  * __spades__ &#9824; --- McDonald's vs. Burger King
+  * __hearts__ &#9829;  --- Tesla vs. BMW
+  * __clubs__ &#9827; --- MAC Cosmetics vs. Glossier
+  * __diamonds__ &#9830; --- H&M vs. Zara
+  * Compare and contrast based on:
+    * Visual Identity
+    * Language and Messaging
+    * Big Idea and Tagline
+    * Positioning--- Who is this for?
+
 
 ### At Home
 * `read` the [syllabus](dbi-syllabus.pdf)
