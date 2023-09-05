@@ -33,3 +33,4 @@ course: 'dbi'
 * `read` the [syllabus](dbi-syllabus.pdf)
 * `get` the [textbook](https://a.co/d/b27IXZD). Read `p. 1-18` _(up to Customer Experience)_
 * `complete` [Homework One](assignments/hw1.html)
+* `set` a profile picture in `Slack` _(this improves class communication)_

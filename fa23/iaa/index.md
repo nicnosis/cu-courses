@@ -24,7 +24,6 @@ course: 'iaa'
 * `fill out` index card (please listen for instructions)
 * `join` our [Slack Channel](https://join.slack.com/t/cu-fa23/shared_invite/zt-22bghbp1d-2nIKp93mtYWfl_eR594FBg)
 
-[//]: # (  * `fill out` [this form]&#40;https://forms.gle/8b37ZbFp46myK8GZ7&#41; to get your invite to the private channel for this course.)
 * `codepen` [1.1: primitives](https://codepen.io/novonagu/pen/YzKVjGj)
 * `codepen` [1.2: challenge: primitives](https://codepen.io/novonagu/pen/RwbVBZE)
 * `codepen` [1.3: color values](https://codepen.io/novonagu/pen/aboWjLE)
@@ -37,11 +36,17 @@ course: 'iaa'
   * [mouseX / mouseY](https://p5js.org/reference/#/p5/mouseX)
   * You can use any other method in the [reference](https://p5js.org/reference/) if you like.
 * When you finish, submit your URL __with everyone's names__ for today's `participation`
-  * [submit here](https://forms.gle/Aw1wjXpKuCmpYQTh7)
+
+#### Wednesday
+* `codepen` lesson [2.1: review](https://codepen.io/novonagu/pen/RwbjbER)
+* `codepen` lesson [2.2: conditional logic](https://codepen.io/novonagu/pen/NWKwKZy)
+* `codepen` lesson [2.3: interaction](https://codepen.io/novonagu/pen/bGbYGGL)
+* `challenge:` [moving ball collision thing](https://codepen.io/novonagu/pen/xxmRqRm)
 
 ### At Home
+#### —BASICS—
 * `read` the [syllabus](iaa-syllabus.pdf)
-* `begin` [Homework One](assignments/hw1.html)
+* `begin` [Homework One](assignments/hw1.html). It is due __Monday Sep. 11th @ 11:59pm__
 * `read` coursescript notes on [drawing](https://web.archive.org/web/20220331082944/https://coursescript.com/notes/interactivecomputing/drawing/index.html)
 * `watch` shiffman 1.3 [shapes and drawing](https://youtu.be/c3TeLi6Ns1E)
 * `watch` shiffman 1.4 [color](https://youtu.be/riiJTF5-N7c)
@@ -54,3 +59,24 @@ Make sure you understand:
 * The p5.js coordinate system
 * Drawing primitives: `rect()`, `ellipse()`, `line()`
 * How to use color: `stroke()`, `fill()`, `background()`
+
+Also:  
+* `set` a profile picture in `Slack` _(this improves class communication)_
+
+#### —CONTROL FLOW—
+* `read` [JS Variables](https://www.w3schools.com/js/js_variables.asp)
+* `read` [JS Comparison and Logical Operators](https://www.w3schools.com/js/js_comparisons.asp)
+* `watch` shiffman 2.1 [variables](https://youtu.be/RnS0YNuLfQQ)
+* `watch` shiffman 2.2 [defining your own variables](https://youtu.be/Bn_B3T_Vbxs)
+* `watch` shiffman 3.1 [conditional statements](https://youtu.be/1Osb_iGDdjk)
+* `watch` shiffman 3.2 [bouncing ball](https://youtu.be/LO3Awjn_gyU)
+
+
+Make sure you understand:
+* Comparison operators--- `<`, `>`, `<=`, `>=`, `==`, and `===`
+* Conditionals--- `if` statement
+* Boolean variable types--- `true` and `false`
+* Logical operators--- `&&`, `||`, `!`
+* Keyboard/Mouse input--- `mousePressed()`, `keyPressed()` and others
+* System variables--- `width`, `height`, `mouseX`, `mouseY`
+* User-defined variables--- how to assign and reference your own variables

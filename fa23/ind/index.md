@@ -35,3 +35,5 @@ course: 'ind'
   * [Storytelling with Data](https://a.co/d/jexyD4a)
   * [Learning Tableau 2022](https://a.co/d/7WOABnM)
 * `read` Chapter 1 of _Storytelling with Data_
+* `download and activate` **Tableau Desktop**. I sent out an email with instructions
+* `set` a profile picture in `Slack` _(this improves class communication)_

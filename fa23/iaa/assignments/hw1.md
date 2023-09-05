@@ -35,12 +35,11 @@ The methods you will want to understand are:
 * ellipse()
 * rect()
 
-
-
 #### Tutorial
 You may also like Dan Shiffman's [p5.js tutorials on YouTube](https://youtu.be/D1ELEeIs0j8). He is using Brackets, but we can use Codepen.
 
 ## Submission
-Submission TBD
 
-#### **Due date TBD**
+This is due __Monday Sep. 11th @ 11:59pm__
+
+This is worth `3 pts.`
