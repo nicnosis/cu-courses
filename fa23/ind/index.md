@@ -30,7 +30,7 @@ course: 'ind'
 #### Wednesday
 * `inspiration` [Internet Speeds](https://themarkup.org/still-loading/2022/10/19/dollars-to-megabits-you-may-be-paying-400-times-as-much-as-your-neighbor-for-internet-service)
 * `inspiration` [The Wealth and Health of Nations](https://observablehq.com/@mbostock/the-wealth-health-of-nations)
-* `watch` Hans Rosling video
+* `watch` [Hans Rosling video](https://www.youtube.com/watch?v=jbkSRLYSojo)
 * `view` [domo sample datasets](https://domo-support.domo.com/s/article/360043931814?language=en_US)
 * olympics
 * babynames
