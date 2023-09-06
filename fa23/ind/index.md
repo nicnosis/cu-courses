@@ -27,6 +27,17 @@ course: 'ind'
 * `participation`: submit as a reply to Slack thread. Make sure everybody's name is on it and that the link is shareable.
 * `check out` the [Learning Tableau 2022 GitHub](https://github.com/PacktPublishing/Learning-Tableau-2022/tree/main)
 
+#### Wednesday
+* `inspiration` [The Wealth and Health of Nations](https://observablehq.com/@mbostock/the-wealth-health-of-nations)
+* `watch` Hans Rosling video
+* `view` [domo sample datasets](https://domo-support.domo.com/s/article/360043931814?language=en_US)
+* olympics
+* babynames
+* anything else you think is fun
+* `download` [ch01.zip](lt/ch01.zip)
+* `practice` Google Sheets
+* `practice` Tableau
+* `check out` the [Learning Tableau 2022 GitHub](https://github.com/PacktPublishing/Learning-Tableau-2022/tree/main)
 
 ### At Home
 * `complete` [Homework One](assignments/hw1.html)
