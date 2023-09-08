@@ -25,7 +25,7 @@ You will write your submission in a `Google Doc`.
 
 Please name your submission `big-idea-lastname-firstname`, e.g. `big-idea-doe-john`
 
-Submit the link online.
+Submit the link on Moodle.
 
 ## Grade
 This is worth `5 pts.`
