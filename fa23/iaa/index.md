@@ -80,3 +80,28 @@ Make sure you understand:
 * Keyboard/Mouse input--- `mousePressed()`, `keyPressed()` and others
 * System variables--- `width`, `height`, `mouseX`, `mouseY`
 * User-defined variables--- how to assign and reference your own variables
+
+## week 3
+### In Class
+#### Monday
+ * `review`:
+   * Conditionals
+   * Booleans
+   * Keyboard/Mouse input
+   * System Variables
+ * Bouncing Ball review
+ * `lecture`: Dynamic Compositions
+   * I can make this `pdf` available for you in class
+ * `participation`: Group inspo exercise
+   * Go to [behance](https://www.behance.net/featured) and/or [unsplash](https://unsplash.com/) and listen for instructions
+   * When finished, post your result to the Slack thread
+
+### At Home
+ * `begin` [Project One](assignments/p1.html). It is due `Sunday September 24th` @ 11:59pm
+ * Be prepared to `present` your Project One milestone progress on `Monday`. You must have:
+   * At least three inspiration sources. These can include:
+     * Photos
+     * Artwork (computer-generated or otherwise)
+     * Code samples
+   * An idea that you're committed to
+   * Starter code to present (it's okay if it's a little buggy still)
