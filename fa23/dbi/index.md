@@ -63,3 +63,26 @@ course: 'dbi'
 * `get` the [textbook](https://a.co/d/b27IXZD). Read `p. 1-18` _(up to Customer Experience)_
 * `complete` [Homework One](assignments/hw1.html)
 * `set` a profile picture in `Slack` _(this improves class communication)_
+
+## Week 3
+### In Class
+#### Monday
+ * `exercise`: Personas
+   * Last Week Inspiration A: [Yole Supplements](https://www.behance.net/gallery/177416631/Yole-Supplemetn-LOGO-BRAND-IDENTITY-BRANDING)
+   * Last Week Inspiration B: [ISO Zero Whey](https://www.behance.net/gallery/175971321/Whey-Protein-Packaging-Design-Supplements)
+   * Considerations: _(no need to answer all of these)_
+     * What is your target demographic?
+     * Where do they live?
+     * What industry do they work in? How much do they earn?
+     * What are their hobbies?
+     * How do they think?
+     * Who is important to them?
+     * How can you best reach your target market?
+   * For extra `fun`: Try finding a fitting photo for your persona. You might use [Unsplash](https://unsplash.com/). 
+ * `video`: Simon Sinek
+ * `exercise`: [4 Brands That Start With Why](https://www.linkedin.com/pulse/4-brands-start-why-2020-zac-garside/)
+   * What does this brand believe?
+   * How does its 'Why' come through in its product and brand identity?
+
+### At Home
+ * `begin` [Project One](assignments/p1.html). It is due `Sunday Sept. 24th`.
