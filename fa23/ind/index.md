@@ -49,3 +49,13 @@ course: 'ind'
 * `read` Chapter 1 of _Storytelling with Data_
 * `download and activate` **Tableau Desktop**. I sent out an email with instructions
 * `set` a profile picture in `Slack` _(this improves class communication)_
+
+## Week 3
+### In Class
+#### Monday
+* `lecture`: Affordances and Usability
+* `video`: Norman's Doors
+* `participation`: Design Challenge
+
+### At Home
+* `begin` [Project One](assignments/p1.html). Please be prepared to share your ideas on Monday.
