@@ -96,7 +96,19 @@ Make sure you understand:
    * Go to [behance](https://www.behance.net/featured) and/or [unsplash](https://unsplash.com/) and listen for instructions
    * When finished, post your result to the Slack thread
 
+#### Wednesday
+* `review`: random
+* `codepen` [lesson 5.1: objects](https://codepen.io/novonagu/pen/BaBvGyp)
+* `codepen` [lesson 5.2: classes](https://codepen.io/novonagu/pen/eYObQJL)
+* `codepen` [lesson 5.4: arrays](https://codepen.io/novonagu/pen/qBWvExq)
+* `codepen` [lesson 5.5: for loops](https://codepen.io/novonagu/pen/ExYMaLP)
+* `codepen` [lesson 5.6: looping with objects](https://codepen.io/novonagu/pen/bGbZNxQ)
+* `inspiration`: Nic's work with objects/arrays:
+  * [Drippp](https://codepen.io/novonagu/pen/byRRXG)
+  * [generative isometric structures](https://codepen.io/novonagu/pen/ryNrMw)
+
 ### At Home
+#### PROJECT ONE
  * `begin` [Project One](assignments/p1.html). It is due `Sunday September 24th` @ 11:59pm
  * Be prepared to `present` your Project One milestone progress on `Monday`. You must have:
    * At least three inspiration sources. These can include:
@@ -105,3 +117,17 @@ Make sure you understand:
      * Code samples
    * An idea that you're committed to
    * Starter code to present (it's okay if it's a little buggy still)
+
+#### SKILL
+Reading
+* `read` W3Schools: [JS Objects](https://www.w3schools.com/js/js_objects.asp)
+* `read` W3Schools: [JS Classes](https://www.w3schools.com/js/js_classes.asp)
+* `read` W3Schools: [JS Arrays](https://www.w3schools.com/js/js_arrays.asp)
+* `read` W3Schools: [JS for Loops](https://www.w3schools.com/js/js_loop_for.asp)
+
+Videos
+* `watch` shiffman 3.3 [Else/Else if, AND/OR](https://youtu.be/r2S7j54I68c?si=GEmMwMnUdvO1z15J)
+* `watch` shiffman 3.4 [Boolean Variables](https://www.youtube.com/watch?v=Rk-_syQluvc)
+* `watch` shiffman 4.1 [While and for Loops](https://www.youtube.com/watch?v=cnRD9o6odjk)
+* `watch` shiffman 4.2 [Nested Loops](https://www.youtube.com/watch?v=1c1_TMdf8b8)
+  * By the way, you can find the full playlist [here](https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)

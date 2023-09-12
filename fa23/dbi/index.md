@@ -81,6 +81,7 @@ course: 'dbi'
    * For extra `fun`: Try finding a fitting photo for your persona. You might use [Unsplash](https://unsplash.com/). 
  * `video`: Simon Sinek
  * `exercise`: [4 Brands That Start With Why](https://www.linkedin.com/pulse/4-brands-start-why-2020-zac-garside/)
+   * What is this brand's 'why'?
    * What does this brand believe?
    * How does its 'Why' come through in its product and brand identity?
 
