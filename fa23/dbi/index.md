@@ -7,7 +7,7 @@ term: 'fa23'
 course: 'dbi'
 ---
 
-<h1 class="display-1">Designing Brand Identity</h1>
+<h1 class="display-1 course-title">Designing Brand Identity</h1>
 
 ## Week 1
 
@@ -60,7 +60,7 @@ course: 'dbi'
 
 ### At Home
 * `read` the [syllabus](dbi-syllabus.pdf)
-* `get` the [textbook](https://a.co/d/b27IXZD). Read `p. 1-18` _(up to Customer Experience)_
+* `get` the [textbook](https://a.co/d/b27IXZD). `Read` p. 1-18 _(up to Customer Experience)_
 * `complete` [Homework One](assignments/hw1.html)
 * `set` a profile picture in `Slack` _(this improves class communication)_
 
@@ -85,5 +85,18 @@ course: 'dbi'
    * What does this brand believe?
    * How does its 'Why' come through in its product and brand identity?
 
+#### Wednesday
+* `reminder`: Please get the Slack app for your smartphone, so you can get notifications and receive DMs.
+* `inspiration`: [squadhelp](https://www.squadhelp.com/)
+* `participation`: Group exercise
+  * 1: Vision & Meaning 
+  * 2: Authenticity & Coherence
+  * 3: Flexibility & Commitment
+  * 4: Value, Differentiation & Longevity
+  * For each group: Find an example brand for each category. Post the link to the brand’s website as a reply to the Slack thread (not in the main chat)
+  * `Please DM me`: Today's date and who's in your group for participation _(e.g. 9/13 - We are Group One with Bob, Susan, and Michelle)_
+
 ### At Home
  * `begin` [Project One](assignments/p1.html). It is due `Sunday Sept. 24th`.
+ * Please have a concept to discuss on Monday
+ * `read` p.19-52 _(up to Brandmarks)_

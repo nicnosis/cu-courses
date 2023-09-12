@@ -7,7 +7,7 @@ term: 'fa23'
 course: 'ind'
 ---
 
-<h1 class="display-1">Information Design</h1>
+<h1 class="display-1 course-title">Information Design</h1>
 
 ## Week 1
 
@@ -58,4 +58,5 @@ course: 'ind'
 * `participation`: Design Challenge
 
 ### At Home
+* `reminder`: Please get the Slack app for your smartphone, so you can get notifications and receive DMs.
 * `begin` [Project One](assignments/p1.html). Please be prepared to share your ideas on Monday.

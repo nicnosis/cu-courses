@@ -7,7 +7,7 @@ term: 'fa23'
 course: 'iaa'
 ---
 
-<h1 class="display-1">Interactive &amp; Algorithmic Art</h1>
+<h1 class="display-1 course-title">Interactive &amp; Algorithmic Art</h1>
 
 ## Week 1
 
@@ -108,6 +108,8 @@ Make sure you understand:
   * [generative isometric structures](https://codepen.io/novonagu/pen/ryNrMw)
 
 ### At Home
+* `reminder`: Please get the Slack app for your smartphone, so you can get notifications and receive DMs.
+
 #### PROJECT ONE
  * `begin` [Project One](assignments/p1.html). It is due `Sunday September 24th` @ 11:59pm
  * Be prepared to `present` your Project One milestone progress on `Monday`. You must have:
