@@ -89,6 +89,7 @@ course: 'dbi'
 * `reminder`: Please get the Slack app for your smartphone, so you can get notifications and receive DMs.
 * `inspiration`: [squadhelp](https://www.squadhelp.com/)
 * `participation`: Group exercise
+  * `look at` [this image of Brand Ideals Overview](img/brand-ideals.png)
   * 1: Vision & Meaning 
   * 2: Authenticity & Coherence
   * 3: Flexibility & Commitment
@@ -97,6 +98,6 @@ course: 'dbi'
   * `Please DM me`: Today's date and who's in your group for participation _(e.g. 9/13 - We are Group One with Bob, Susan, and Michelle)_
 
 ### At Home
- * `begin` [Project One](assignments/p1.html). It is due `Sunday Sept. 24th`.
- * Please have a concept to discuss on Monday
- * `read` p.19-52 _(up to Brandmarks)_
+* `begin` [Project One](assignments/p1.html). It is due `Sunday Sept. 24th`.
+* Please have a concept to discuss on Monday
+* `read` p.19-52 _(up to Brandmarks)_

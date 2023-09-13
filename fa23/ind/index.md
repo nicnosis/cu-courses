@@ -57,6 +57,25 @@ course: 'ind'
 * `video`: Norman's Doors
 * `participation`: Design Challenge
 
+#### Wednesday
+* `inspiration`: [How the Race Was Won](https://kottke.org/23/09/how-the-race-was-won)
+* `reference`: [Choosing infographics](https://medium.com/@iDashboards/how-to-choose-your-charts-infographic-fc4ea5f7de29)
+* `view` [domo sample datasets](https://domo-support.domo.com/s/article/360043931814?language=en_US)
+* `review` Google Sheets
+  * Sort, Filter
+  * Select All
+  * Freeze Row/Column
+  * Pivot Table
+  * Formula basics
+* `learn` Tableau:
+  * Connecting to dataset
+  * Create a worksheet
+  * Create visualizations - bars, stacked bars, line chart
+  * Difference between Dimension and Measure
+  * Create dashboards
+
 ### At Home
 * `reminder`: Please get the Slack app for your smartphone, so you can get notifications and receive DMs.
-* `begin` [Project One](assignments/p1.html). Please be prepared to share your ideas on Monday.
+* `begin` [Project One](assignments/p1.html)
+  * You will have a `progress check` on Monday. Be prepared to share your ideas
+* `read` Chapter 2 of _Storytelling with Data_
