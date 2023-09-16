@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homework One
+title: IAA - Homework One
 footer: ''
 highlight: 'assignments'
 term: 'fa23'

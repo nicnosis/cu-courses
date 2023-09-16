@@ -13,6 +13,10 @@ h2 {
     border-bottom: 1px solid #ccc;
 }
 
+h2:not(:first-child) {
+    margin-top: 1em;
+}
+
 h3 {
     color: $boldColor;
 }

@@ -10,7 +10,7 @@ course: 'iaa'
 ## Week 1
 
 ### In Class
-#### Monday
+#### Monday - 8/28
 * `inspiration`: [inconvergent](https://inconvergent.net/generative/)
 * `take` [this pre-test](https://forms.gle/d5LavEQ6qQ72saMs6)
 * `sign up` on [CodePen](https://codepen.io)
@@ -18,7 +18,7 @@ course: 'iaa'
 * `check out` [p5.js docs](https://p5js.org/reference/)
 
 ## Week 2
-#### Monday
+#### Monday - 9/4
 * `fill out` index card (please listen for instructions)
 * `join` our [Slack Channel](https://join.slack.com/t/cu-fa23/shared_invite/zt-22bghbp1d-2nIKp93mtYWfl_eR594FBg)
 
@@ -35,7 +35,7 @@ course: 'iaa'
   * You can use any other method in the [reference](https://p5js.org/reference/) if you like.
 * When you finish, submit your URL __with everyone's names__ for today's `participation`
 
-#### Wednesday
+#### Wednesday - 9/6
 * `codepen` lesson [2.1: review](https://codepen.io/novonagu/pen/RwbjbER)
 * `codepen` lesson [2.2: conditional logic](https://codepen.io/novonagu/pen/NWKwKZy)
 * `codepen` lesson [2.3: interaction](https://codepen.io/novonagu/pen/bGbYGGL)
@@ -81,7 +81,7 @@ Make sure you understand:
 
 ## week 3
 ### In Class
-#### Monday
+#### Monday - 9/11
  * `review`:
    * Conditionals
    * Booleans
@@ -94,7 +94,7 @@ Make sure you understand:
    * Go to [behance](https://www.behance.net/featured) and/or [unsplash](https://unsplash.com/) and listen for instructions
    * When finished, post your result to the Slack thread
 
-#### Wednesday
+#### Wednesday - 9/13
 * `review`: random
 * `codepen` [lesson 5.1: objects](https://codepen.io/novonagu/pen/BaBvGyp)
 * `codepen` [lesson 5.2: classes](https://codepen.io/novonagu/pen/eYObQJL)
@@ -131,3 +131,32 @@ Videos
 * `watch` shiffman 4.1 [While and for Loops](https://www.youtube.com/watch?v=cnRD9o6odjk)
 * `watch` shiffman 4.2 [Nested Loops](https://www.youtube.com/watch?v=1c1_TMdf8b8)
   * By the way, you can find the full playlist [here](https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+
+
+## Week 4
+### In Class
+#### Monday - 9/18
+* Let’s review
+    1. `Random()`
+    2. Arrays
+    3. Objects and classes
+    4. `for` loops
+* `Huddle`--- Idea share 
+  * I will make a thread on Slack. Please reply with your CodePen link.
+* Introducing `DatGUI`
+  * `codepen` [lesson 4.1: Introducing DatGUI](https://codepen.io/novonagu/pen/xxKJjYM?editors=0010)
+  * `codepen` [Complete DatGUI example](https://codepen.io/novonagu/pen/rNoGNQR) <small>_(credit: code adapted from user [slow_izzm](https://editor.p5js.org/slow_izzm/sketches) on p5.js)_</small>
+  * `check out` the [docs](https://github.com/dataarts/dat.gui/blob/master/API.md)
+
+
+#### Wednesday - 9/20
+* `inspiration`: [weavesilk](http://weavesilk.com/)
+
+---CRITIQUES---
+* Group Critiques - Please use the [Project One](assignments/p1.html) rubric.
+  * Does this work feel dynamic? Is there a sense of movement?
+* Individual Critiques + Code help
+
+### At Home
+* `complete` [Project One](assignments/p1.html). If you have questions/difficulties in submitting, please notify me immediately.
+* `begin` [Homework Two](assignments/hw2.html).
