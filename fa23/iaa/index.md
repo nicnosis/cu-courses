@@ -1,13 +1,11 @@
 ---
 layout: home
-title: 'Interactive and Algorithmic Art'
+title: 'Interactive &amp; Algorithmic Art'
 footer: ' '
 highlight: home
 term: 'fa23'
 course: 'iaa'
 ---
-
-<h1 class="display-1 course-title">Interactive &amp; Algorithmic Art</h1>
 
 ## Week 1
 

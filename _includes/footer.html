@@ -1,5 +1,3 @@
-
-
 <!--jQuery-->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
 
@@ -9,7 +7,7 @@
 
 
 
-<!-- highlight active tab -->
+<!-- HIGHLIGHT ACTIVE TAB -->
 {% if page.highlight == nil %}
 {% else %}
 <script>
@@ -17,3 +15,27 @@
     $(s).addClass('active active-color');
 </script>
 {% endif %}
+<!-- END HIGHLIGHT ACTIVE TAB -->
+
+
+<!-- POPULATE LINKS NAV -->
+<!--<script>-->
+<!--    const $h2 = $('h2');-->
+<!--    for (var i = 0; i < $h2.length; i++) {-->
+<!--        var id = $h2[i].id;-->
+<!--        var text = id.replace('-',' ');-->
+<!--        var li = '<li><a href="#' + id + '">' + text +  '</a>';-->
+<!--        $('ul#weeks-nav').append(li);-->
+<!--    }-->
+<!--</script>-->
+<script>
+    const $h2 = $('h2');
+    for (var i = 0; i < $h2.length; i++) {
+        var id = $h2[i].id;
+        var text = id.replace('-',' ');
+        var a = '<a href="#' + id + '">' + text +  '</a>';
+        $('div#weeks-nav').append(a);
+        $('div#weeks-nav a').addClass('list-group-item list-group-item-action p-0 px-3 border-0');
+    }
+</script>
+<!-- END POPULATE LINKS NAV -->

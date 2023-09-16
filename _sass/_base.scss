@@ -1,6 +1,7 @@
 // ===== FONTS =====
 body {
     font-family: $primaryFont;
+    padding-top: 70px;
 }
 
 h2, h3 {
@@ -35,10 +36,20 @@ h4 {
     color: $primaryColor;
 }
 
+// ===== WEEKS-NAV =====
+#weeks-nav a {
+
+}
+
 // ===== MAIN-CONTENT =====
 .main-content {
     margin-top: 2em;
-    padding-top: 60px;
+}
+
+#weeks-content h2:not(:first-child) {
+    margin-top: 2em;
+    //scroll-margin-top: 77px;
+    scroll-margin-top: 2em;
 }
 
 // ===== PROFILE =====

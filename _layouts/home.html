@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>{% include head.html %}</head>
+<body>
+{% if page.term != nil and page.title != 'courses' %}
+{% include navs/{{page.term}}-nav.html %}
+{% endif %}
+
+<div class="container main-content">
+    <h1 class="display-1 course-title">{{ page.title }}</h1>
+    <div class="row">
+
+        <!-- WEEKS NAV -->
+        <div class="col-md-2" id="sidebar">
+            <div class="list-group list-group-light" id="weeks-nav"></div>
+        </div>
+        <!-- END WEEKS NAV -->
+
+        <!-- WEEKS CONTENT -->
+        <div class="col-md-10" id="weeks-content">
+            {{ content }}
+        </div>
+        <!-- END WEEKS CONTENT -->
+
+    </div>
+</div>
+
+{% include footer.html %}
+</body>
+</html>

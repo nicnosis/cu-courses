@@ -7,7 +7,7 @@ $boldColor: #984a59;
 $gray: rgba(0, 0, 0, 0.15);
 
 .container a {
-    //color: #ff8f56;
+    color: var(--mdb-link-color);
 }
 
 code.highlighter-rouge {
