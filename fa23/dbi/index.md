@@ -10,14 +10,14 @@ course: 'dbi'
 ## Week 1
 
 ### In Class
-#### Monday
+#### Monday - 8/28
 * `discussion`: 1984
 * `take` [this pre-test](https://forms.gle/jA3CP9HdNAnhPZxQ9)
 * `discussion`: brands
 * `inspiration`: [volusion](https://www.behance.net/gallery/55623181/Volusion-Branding)
 
 ## Week 2
-#### Monday
+#### Monday - 9/4
 * `fill out` index card (please listen for instructions)
 * `join` our [Slack Channel](https://join.slack.com/t/cu-fa23/shared_invite/zt-22bghbp1d-2nIKp93mtYWfl_eR594FBg)
 * `inspiration`: [elegantseagulls](https://www.elegantseagulls.com/)
@@ -25,7 +25,7 @@ course: 'dbi'
 * `participation`: write down your answers to the exercises and hand them in. Please make sure your name is on it.
 * if time permits: beginning `Illustrator`
 
-#### Wednesday
+#### Wednesday - 9/6
 * `reminders`:
   * Do the [pre-test](https://forms.gle/jA3CP9HdNAnhPZxQ9) if you haven't already.
   * Sign up for Slack if you haven't already. Make sure I've got you admitted to the channel `dbi-main`.
@@ -64,7 +64,7 @@ course: 'dbi'
 
 ## Week 3
 ### In Class
-#### Monday
+#### Monday - 9/11
  * `exercise`: Personas
    * Last Week Inspiration A: [Yole Supplements](https://www.behance.net/gallery/177416631/Yole-Supplemetn-LOGO-BRAND-IDENTITY-BRANDING)
    * Last Week Inspiration B: [ISO Zero Whey](https://www.behance.net/gallery/175971321/Whey-Protein-Packaging-Design-Supplements)
@@ -83,7 +83,7 @@ course: 'dbi'
    * What does this brand believe?
    * How does its 'Why' come through in its product and brand identity?
 
-#### Wednesday
+#### Wednesday - 9/13
 * `reminder`: Please get the Slack app for your smartphone, so you can get notifications and receive DMs.
 * `inspiration`: [squadhelp](https://www.squadhelp.com/)
 * `participation`: Group exercise
@@ -99,3 +99,22 @@ course: 'dbi'
 * `begin` [Project One](assignments/p1.html). It is due `Sunday Sept. 24th`.
 * Please have a concept to discuss on Monday
 * `read` p.19-52 _(up to Brandmarks)_
+
+## Week 4
+### In Class
+#### Monday - 9/18
+Please come prepared, on time, with your concept to share.
+
+1. Small Group Critiques
+    1. You will receive a critique sheet.
+    2. I will assign groups of three.
+    3. Each person will get a few minutes to share their idea with the group
+    4. Afterward, you will use the sheets to critique one another.
+2. Huddle
+    1. We will circle up as a class.
+    2. You will present your idea briefly to the entire class.
+    3. You will share one takeaway from today.
+
+
+### At Home
+ * `complete` [Project One](assignments/p1.html). Please submit your `pdf` on Moodle and make sure it is named correctly.
