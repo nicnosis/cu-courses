@@ -8,7 +8,7 @@ course: 'iaa'
 ---
 # Homework Two --- <small>Interface Controller</small>
 ## Description
-You will use [dat.GUI](https://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage) to create an interface that you use to control a p5 sketch.
+You will use [dat.GUI](https://github.com/dataarts/dat.gui/blob/master/API.md) to create an interface that you use to control a p5 sketch.
 
 ## Starter Pen
 

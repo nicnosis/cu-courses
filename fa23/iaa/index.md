@@ -137,6 +137,7 @@ Videos
 ### In Class
 #### Monday - 9/18
 * `inspiration`: [Vault](https://vault.xyz/?utm_source=extension&utm_medium=click&utm_campaign=muzli)
+* `codepen` [Week 4 Review](https://codepen.io/novonagu/pen/PoXJoZN?editors=0010)
 * Let’s review
     1. `Random()`
     2. Arrays
