@@ -49,4 +49,4 @@ Submit your Codepen URL to Moodle.
 
 Please make sure your pen name and HTML contain your name written like this: __Lastname, Firstname__
 
-#### **Due Sunday, October 1st @ 11:59pm**
+#### **Due Monday, October 2nd @ 11:59pm**

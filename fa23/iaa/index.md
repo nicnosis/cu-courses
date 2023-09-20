@@ -133,7 +133,7 @@ Videos
   * By the way, you can find the full playlist [here](https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
 
-## Week 4
+## Weeks 4 and 5
 ### In Class
 #### Monday - 9/18
 * `inspiration`: [Vault](https://vault.xyz/?utm_source=extension&utm_medium=click&utm_campaign=muzli)
@@ -145,20 +145,59 @@ Videos
     4. `for` loops
 * `Huddle`--- Idea share 
   * I will make a thread on Slack. Please reply with your CodePen link.
+
+* `inspiration`: [weavesilk](http://weavesilk.com/)
+
+#### 9/20 to 9/26
+
+### (1) Video Walkthrough
+* Please [watch this video](https://youtu.be/9Xrq6uQEiKE) before you do anything
+
+### (2) Codepen Work
+Do these on your own.
+
+Each of these will have a `pen` and a `video` walkthrough.
+
 * Introducing `DatGUI`
+  * `watch` [this tutorial](https://youtu.be/UKQySOToacE)
   * `codepen` [lesson 4.1: Introducing DatGUI](https://codepen.io/novonagu/pen/xxKJjYM?editors=0010)
   * `codepen` [Complete DatGUI example](https://codepen.io/novonagu/pen/rNoGNQR) <small>_(credit: code adapted from user [slow_izzm](https://editor.p5js.org/slow_izzm/sketches) on p5.js)_</small>
   * `check out` the [docs](https://github.com/dataarts/dat.gui/blob/master/API.md)
 
+* Introducing `map`
+  * `watch` [this tutorial](https://youtu.be/DiuMWtr4FGA)
+  * `codepen` [lesson: Introducing map()](https://codepen.io/novonagu/pen/QpOqXg?editors=0010)
 
-#### Wednesday - 9/20
-* `inspiration`: [weavesilk](http://weavesilk.com/)
+* Introducing `constrain`
+  * `watch` [this tutorial](https://youtu.be/AkMoHiS5K_E)
+  * `codepen` [lesson: Introducing constrain()](https://codepen.io/novonagu/pen/wJPzmO?editors=0010)
 
----CRITIQUES---
-* Group Critiques - Please use the [Project One](assignments/p1.html) rubric.
-  * Does this work feel dynamic? Is there a sense of movement?
-* Individual Critiques + Code help
+### (3) Group Critiques
+Watch the video walkthrough I posted in section (1) if you haven't already.
 
-### At Home
+This is worth `1.5 pts.` in participation.
+
+TEAM ONE
+* Alnamlah, Layan
+* Duver,Matt Thaddeus
+* King,Ryan Michael
+
+TEAM TWO
+* Benkovich, Rachel
+* Desilets, Jacob
+* Petro, Jonas Dimaggio
+
+TEAM THREE
+* Sample, Jack
+* Shontz, Chastant
+* Stephan, Maxwell
+
+
+* Use [this critique sheet](https://docs.google.com/document/d/1zWkE_L5X3GynZlnSwKsGNX0BRLOe60ezncBS_x46TL0/edit?usp=sharing)
+* `submit` your Google Doc link to Moodle.
+
+
+### Deliverables
+* `complete` the Group Critique. Submit on Moodle.
 * `complete` [Project One](assignments/p1.html). If you have questions/difficulties in submitting, please notify me immediately.
-* `begin` [Homework Two](assignments/hw2.html).
+* `complete` [Homework Two](assignments/hw2.html).
