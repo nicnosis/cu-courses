@@ -100,21 +100,47 @@ course: 'dbi'
 * Please have a concept to discuss on Monday
 * `read` p.19-52 _(up to Brandmarks)_
 
-## Week 4
-### In Class
-#### Monday - 9/18
-Please come prepared, on time, with your concept to share.
+## Weeks 4 and 5
 
-1. Small Group Critiques
-    1. You will receive a critique sheet.
-    2. I will assign groups of three.
-    3. Each person will get a few minutes to share their idea with the group
-    4. Afterward, you will use the sheets to critique one another.
-2. Huddle
-    1. We will circle up as a class.
-    2. You will present your idea briefly to the entire class.
-    3. You will share one takeaway from today.
+### 9/20 - 9/26
 
+#### (1) Video Walkthrough
+Please [watch this video walkthrough](https://youtu.be/qO2iEvtHbOo) before you do anything.
 
-### At Home
- * `complete` [Project One](assignments/p1.html). Please submit your `pdf` on Moodle and make sure it is named correctly.
+#### (2) Group Critiques
+Watch the video walkthrough I posted in section (1) if you haven't already.
+
+This is worth `3 pts.` in participation.
+
+* Use [this critique sheet](https://docs.google.com/document/d/1X42lXyvnaECECmpliGzxSlYVsArVK9oJdSd1QyhyFIs/edit?usp=sharing)
+* `submit` your Google Doc link to Moodle.
+
+TEAM ONE
+* Ball, Colden
+* Grannis, George
+* Reilly, Matthew
+* Holman, Anna Guita
+
+TEAM TWO
+* Driesse, Amy
+* Hanson, Tyler
+* Ruhlman, Kevin
+
+TEAM THREE
+* Jung, Chae Rin
+* Hludzenski, Nathan
+* Szwagulinski, Matthew
+
+TEAM FOUR
+* Luijpen, Merel
+* Miric, Vukota
+* White, Clark
+
+TEAM FIVE
+* Cerutti, Giordano
+* OKeefe, Dalton
+* Benedict, Tsiorahkwahse
+
+### Deliverables
+* `complete` the Group Critique. Submit on Moodle.
+* `complete` [Project One](assignments/p1.html). I have extended the due date. If you have questions/difficulties in submitting, please notify me immediately.

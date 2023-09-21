@@ -102,6 +102,10 @@ Watch the video walkthrough I posted in section (1) if you haven't already.
 
 This is worth `2 pts.` in participation.
 
+* Use [this critique sheet](https://docs.google.com/document/d/1kay9VLw6hvXWffOB6DwciE8KujelSObEFazz1gLYUtU/edit?usp=sharing)
+* `submit` your Google Doc link to Moodle.
+
+
 TEAM ONE
 * Driesse, Amy
 * Arnoldo, Matthew 
@@ -122,10 +126,6 @@ TEAM FOUR
 * Mucci, Christopher
 * McDonald, Floyd
 * Campbell, Wyatt
-
-
-* Use [this critique sheet](https://docs.google.com/document/d/1kay9VLw6hvXWffOB6DwciE8KujelSObEFazz1gLYUtU/edit?usp=sharing)
-* `submit` your Google Doc link to Moodle.
 
 
 ### Deliverables

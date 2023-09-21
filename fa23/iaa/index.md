@@ -176,6 +176,9 @@ Watch the video walkthrough I posted in section (1) if you haven't already.
 
 This is worth `2 pts.` in participation.
 
+* Use [this critique sheet](https://docs.google.com/document/d/1zWkE_L5X3GynZlnSwKsGNX0BRLOe60ezncBS_x46TL0/edit?usp=sharing)
+* `submit` your Google Doc link to Moodle.
+
 TEAM ONE
 * Alnamlah, Layan
 * Duver,Matt Thaddeus
@@ -190,10 +193,6 @@ TEAM THREE
 * Sample, Jack
 * Shontz, Chastant
 * Stephan, Maxwell
-
-
-* Use [this critique sheet](https://docs.google.com/document/d/1zWkE_L5X3GynZlnSwKsGNX0BRLOe60ezncBS_x46TL0/edit?usp=sharing)
-* `submit` your Google Doc link to Moodle.
 
 
 ### Deliverables
