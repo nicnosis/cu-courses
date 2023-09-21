@@ -141,6 +141,6 @@ TEAM FIVE
 * OKeefe, Dalton
 * Benedict, Tsiorahkwahse
 
-### Deliverables
+### Deliverables:
 * `complete` the Group Critique. Submit on Moodle.
 * `complete` [Project One](assignments/p1.html). I have extended the due date. If you have questions/difficulties in submitting, please notify me immediately.
