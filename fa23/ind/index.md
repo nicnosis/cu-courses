@@ -78,8 +78,7 @@ course: 'ind'
   * You will have a `progress check` on Monday. Be prepared to share your ideas
 * `read` Chapter 2 of _Storytelling with Data_
 
-## Week 4
-### In Class
+## Weeks 4 and 5
 #### Monday - 9/18
 * `inspiration`: [Oldest and Youngest, by State](https://flowingdata.com/2023/09/14/where-the-older-and-the-younger-live/)
 * `lecture`: Choosing Visualizations
@@ -90,7 +89,46 @@ course: 'ind'
 * `participation`: For today's participation, submit a response to the Slack thread
   * You will be graded based on your level of preparedness and openness to solutions.
 
+### 9/20 to 9/26
 
-### At Home
-* `complete` [Project One](assignments/p1.html)
+#### (1) Video Walkthrough
+Please [watch this video](https://youtu.be/k6_sMpVCzbs) before you do anything
+
+#### (2) Lecture Video
+Please watch [this lecture on Choosing Effective Visualizations](https://youtu.be/Jj2ctwBzb5w)
+
+#### (3) Group Critiques
+Watch the video walkthrough I posted in section (1) if you haven't already.
+
+This is worth `2 pts.` in participation.
+
+TEAM ONE
+* Driesse, Amy
+* Arnoldo, Matthew 
+* Miller, Raymond 
+
+TEAM TWO
+* Spector, Abigail
+* Lopol, Madison
+* Schweitzer, Hannah
+
+TEAM THREE
+* Benkovich, Rachel
+* Luijpen, Merel
+* Farella, Michela
+
+TEAM FOUR
+* Bekpulatov, Java
+* Mucci, Christopher
+* McDonald, Floyd
+* Campbell, Wyatt
+
+
+* Use [this critique sheet](https://docs.google.com/document/d/1kay9VLw6hvXWffOB6DwciE8KujelSObEFazz1gLYUtU/edit?usp=sharing)
+* `submit` your Google Doc link to Moodle.
+
+
+### Deliverables
+* `complete` the Group Critique. Submit on Moodle.
+* `complete` [Project One](assignments/p1.html). I have extended the due date to Friday the 29th. If you have questions/difficulties in submitting, please notify me immediately.
 * `read` Chapter 3 of _Storytelling with Data_

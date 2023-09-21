@@ -148,12 +148,11 @@ Videos
 
 * `inspiration`: [weavesilk](http://weavesilk.com/)
 
-#### 9/20 to 9/26
-
-### (1) Video Walkthrough
+### 9/20 to 9/26
+#### (1) Video Walkthrough
 * Please [watch this video](https://youtu.be/9Xrq6uQEiKE) before you do anything
 
-### (2) Codepen Work
+#### (2) Codepen Work
 Do these on your own.
 
 Each of these will have a `pen` and a `video` walkthrough.
@@ -172,10 +171,10 @@ Each of these will have a `pen` and a `video` walkthrough.
   * `watch` [this tutorial](https://youtu.be/AkMoHiS5K_E)
   * `codepen` [lesson: Introducing constrain()](https://codepen.io/novonagu/pen/wJPzmO?editors=0010)
 
-### (3) Group Critiques
+#### (3) Group Critiques
 Watch the video walkthrough I posted in section (1) if you haven't already.
 
-This is worth `1.5 pts.` in participation.
+This is worth `2 pts.` in participation.
 
 TEAM ONE
 * Alnamlah, Layan
@@ -199,5 +198,5 @@ TEAM THREE
 
 ### Deliverables
 * `complete` the Group Critique. Submit on Moodle.
-* `complete` [Project One](assignments/p1.html). If you have questions/difficulties in submitting, please notify me immediately.
+* `complete` [Project One](assignments/p1.html). I have extended the due date. If you have questions/difficulties in submitting, please notify me immediately.
 * `complete` [Homework Two](assignments/hw2.html).
