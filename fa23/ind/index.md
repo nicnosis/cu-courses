@@ -132,3 +132,9 @@ TEAM FOUR
 * `complete` the Group Critique. Submit on Moodle.
 * `complete` [Project One](assignments/p1.html). I have extended the due date to Friday the 29th. If you have questions/difficulties in submitting, please notify me immediately.
 * `read` Chapter 3 of _Storytelling with Data_
+
+### Wednesday - 9/27
+
+Please use the [Zoom link](https://clarkson.zoom.us/j/9445480243) to access today's class.
+
+Starting Monday Oct 2nd we will go back to normal schedule - meeting face-to-face at the normal time and place.
