@@ -203,5 +203,3 @@ TEAM THREE
 ### Wednesday - 9/27
 
 Please use the [Zoom link](https://clarkson.zoom.us/j/9445480243) to access today's class.
-
-Starting Monday Oct 2nd we will go back to normal schedule - meeting face-to-face at the normal time and place.
