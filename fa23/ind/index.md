@@ -136,3 +136,7 @@ TEAM FOUR
 ### Wednesday - 9/27
 
 Please use the [Zoom link](https://clarkson.zoom.us/j/9445480243) to access today's class.
+
+## Week 6
+### Monday - 10/2
+* `continue` presentations
