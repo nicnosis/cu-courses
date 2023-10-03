@@ -223,6 +223,7 @@ Please use the [Zoom link](https://clarkson.zoom.us/j/9445480243) to access toda
 
 #### Tutorials
 * `read` [Gene Kogan's transformations guide](https://genekogan.com/code/p5js-transformations/)
+* If you haven't already: `watch` shiffman 1.4 [color](https://youtu.be/riiJTF5-N7c)
 * `watch` shiffman [9.1: Transformations Pt.1 (Translate, Rotate, Push/Pop)](https://youtu.be/o9sgjuh-CBM)
 * `watch` shiffman [9.2: Transformations Pt.2 (Scale)](https://youtu.be/pkHZTWOoTLM)
 * `watch` shiffman [9.3: Transformations Pt.3](https://youtu.be/IVMvq9rd8dA)
