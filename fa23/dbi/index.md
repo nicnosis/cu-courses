@@ -119,7 +119,6 @@ TEAM ONE
 * Ball, Colden
 * Grannis, George
 * Reilly, Matthew
-* Holman, Anna Guita
 
 TEAM TWO
 * Driesse, Amy
@@ -153,3 +152,13 @@ Please use the [Zoom link](https://clarkson.zoom.us/j/9445480243) to access toda
 ### Monday - 10/2
 * `continue` presentations
 * `inspiration`: [Opus Soundbed](https://feelopus.com/)
+
+### Wednesday - 10/4
+* `inspiration`: [Xender](https://www.behance.net/gallery/47991375/Xender-Branding)
+  * You might also `check out` [their website](https://www.xender.com/)
+* `participation`: Post your image reply to the Slack thread
+  * __Make sure all of your names are on it, or you won't get credit__
+
+## At Home
+* `begin` [Homework Two](assignments/hw2.html)
+* `read` p.54-69 (Up to Brand Dynamics/Trends)

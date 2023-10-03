@@ -67,7 +67,7 @@ Analyze the tone of their messaging and how it aligns with their brand identitie
 This is worth `5 pts.`
 
 Grading considerations:
-* Please name sure your file is named correctly if you want to receive full credit.
+* Please make sure your file is named correctly if you want to receive full credit.
 * There is no word requirement but please try to keep it to four pages.
 
 ### Citing Sources
