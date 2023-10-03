@@ -10,7 +10,7 @@ course: 'dbi'
 ## Description
 You will use Illustrator to produce a vector graphic.
 
-I'm flexible about what you want to do.
+I'm flexible about what you want to draw.
 
 The idea is to make sure you have mastery of Illustrator basics. You must demonstrate understanding of:
 * `vector graphics`

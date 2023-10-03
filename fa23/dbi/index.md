@@ -144,21 +144,39 @@ TEAM FIVE
 * `complete` the Group Critique. Submit on Moodle.
 * `complete` [Project One](assignments/p1.html). I have extended the due date. If you have questions/difficulties in submitting, please notify me immediately.
 
-### Wednesday - 9/27
+#### Wednesday - 9/27
 
 Please use the [Zoom link](https://clarkson.zoom.us/j/9445480243) to access today's class.
 
 ## Week 6
-### Monday - 10/2
+### In Class
+#### Monday - 10/2
 * `continue` presentations
 * `inspiration`: [Opus Soundbed](https://feelopus.com/)
 
-### Wednesday - 10/4
+#### Wednesday - 10/4
 * `inspiration`: [Xender](https://www.behance.net/gallery/47991375/Xender-Branding)
-  * You might also `check out` [their website](https://www.xender.com/)
-* `participation`: Post your image reply to the Slack thread
-  * __Make sure all of your names are on it, or you won't get credit__
+  * Compare old and new logo
+  * check out the `3d model`
+  * Explore: Color, fonts, patterns
+  * You should also `check out` [their website](https://www.xender.com/)
 
-## At Home
+* Let's discuss [Homework Two](assignments/hw2.html).
+
+`——Participation——`
+1. Get intro groups.
+  * TEAM 1: Wordmarks/Letterform Marks
+  * TEAM 2: Pictorial Marks
+  * TEAM 3: Abstract/Symbolic Marks
+  * TEAM 4: Emblems/Dynamic Marks
+2. Make a Google Doc. __Make sure all of your names are on it, or you won't get credit__. Make sure your doc is __shareable__ or I won't be able to see it.
+3. Find __3-5 examples__ for your type of brandmark.
+4. Put an image for each example, so we can pull them up on the screen and look at them together.
+5. Answer these questions for each:
+ * Why do you think the designer(s) picked this type of brandmark?
+ * What does the brandmark suggest or embody? 
+6. Post your Google Doc to the Slack thread. Make sure the document can be `viewed by anyone with the link`. Change this in share settings.
+
+### At Home
 * `begin` [Homework Two](assignments/hw2.html)
 * `read` p.54-69 (Up to Brand Dynamics/Trends)
