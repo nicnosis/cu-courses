@@ -212,6 +212,12 @@ Please use the [Zoom link](https://clarkson.zoom.us/j/9445480243) to access toda
 * dat gui exercise with Rotating Squares
 * `participation`: Post your `pen` to the Slack thread
 
+#### Wednesday - 10/4
+* `lecture`: Color Theory
+* `participation`: [Color Meanings Spreadsheet](https://docs.google.com/spreadsheets/d/1_bAW64ugfFIyB7g0yZpLzeMsPLyMs9MZqjAOCab-3ps/edit?usp=sharing)
+* `codepen`: [Palette Exercise](https://codepen.io/novonagu/pen/XWoPaPN?editors=0010)
+* `read`: [p5 reference: colorMode](https://p5js.org/reference/#/p5/colorMode)
+
 ### At Home
 * `begin` [Project Two](assignments/p2.html). It is due `Sun Oct 22nd`
 
