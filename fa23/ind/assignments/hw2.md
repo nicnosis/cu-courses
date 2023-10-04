@@ -21,7 +21,7 @@ Import the selected dataset into Tableau.
 
 #### Datasets
 1. Option 1--- Pick a dataset from the [Fun, Beginner-Friendly Kaggle Datasets](https://www.kaggle.com/code/rtatman/fun-beginner-friendly-datasets)
-2. Option 2--- Use your own dataset. You might visit the [inspiration section](inspiration.html) of the site and browse some of the datasets
+2. Option 2--- Use your own dataset. You might visit the [inspiration section](/inspiration.html) of the site and browse some of the datasets
 
 ### 2) Data Exploration and Visualization
 First, explore the data in Google Sheets to get a feel for its shape, size, and variables.
@@ -52,8 +52,8 @@ This you'll export as a `pdf` when you're done. Name it `hw2-lastname-firstname.
 ## Submission
 You need to submit two things— your Tableau link and your written narrative.
 
-1) In Tableau, do `Server > Tableau Public > Save to Tableau Public As` and publish it. Make sure it has your name clearly visible
-2) For your written narrative export a `pdf`. Name it `hw2-lastname-firstname.pdf`.
+1. In Tableau, do `Server > Tableau Public > Save to Tableau Public As` and publish it. Make sure it has your name clearly visible. PLEASE MAKE SURE THIS LINK IS ALSO IN YOUR PDF.
+2. For your written narrative export a `pdf`. Name it `hw2-lastname-firstname.pdf`.
 
 ## Grade
 This is worth `6 pts.`

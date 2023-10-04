@@ -153,7 +153,7 @@ PART 1
 
 PART 2 (if time permits)
 1. `visit` [Intro to QoG](https://www.gu.se/en/quality-government)
-2. `explore` [QoG Basic dataset](https://www.gu.se/en/quality-government/qog-data/data-downloads/standard-dataset)
+2. `explore` [QoG Basic dataset](https://www.gu.se/en/quality-government/qog-data/data-downloads/basic-dataset)
   * Check out the codebook (make sure it's the 'basic' one)
 
 ### At Home
