@@ -134,9 +134,28 @@ TEAM FOUR
 * `read` Chapter 3 of _Storytelling with Data_
 
 ### Wednesday - 9/27
-
 Please use the [Zoom link](https://clarkson.zoom.us/j/9445480243) to access today's class.
 
 ## Week 6
-### Monday - 10/2
+### In Class
+#### Monday - 10/2
 * `continue` presentations
+
+#### Wednesday - 10/4
+PART 1
+* `inspiration`: [Movie Ratings - Box-and-Whisker Plot](https://www.reddit.com/r/dataisbeautiful/comments/16ywcoa/oc_ever_wondered_which_genre_of_movies_has_the/?utm_source=share&utm_medium=web2x&context=3)
+* `visit` [Fun Kaggle Datasets](https://www.kaggle.com/code/rtatman/fun-beginner-friendly-datasets)
+  * `download` the UFO data
+* `practice` - Tableau
+* `practice` - __Publishing to Tableau Public__ - you will need an account if you don't have one already
+* `participation` - Submit a screenshot of your work to the Slack thread
+* `discuss` [Homework Two](assignments/hw2.html)
+
+PART 2 (if time permits)
+1. `visit` [Intro to QoG](https://www.gu.se/en/quality-government)
+2. `explore` [QoG Basic dataset](https://www.gu.se/en/quality-government/qog-data/data-downloads/standard-dataset)
+  * Check out the codebook (make sure it's the 'basic' one)
+
+### At Home
+* `begin` [Homework Two](assignments/hw2.html)
+* `read` Chapter 4 of _Storytelling with Data_
