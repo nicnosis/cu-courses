@@ -6,7 +6,7 @@ highlight: 'assignments'
 term: 'fa23'
 course: 'dbi'
 ---
-# Homework One --- <small>Vector Graphic</small>
+# Homework Two --- <small>Vector Graphic</small>
 ## Description
 You will use Illustrator to produce a vector graphic.
 

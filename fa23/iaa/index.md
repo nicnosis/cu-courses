@@ -219,7 +219,7 @@ Please use the [Zoom link](https://clarkson.zoom.us/j/9445480243) to access toda
 * `read`: [p5 reference: colorMode](https://p5js.org/reference/#/p5/colorMode)
 
 ### At Home
-* `begin` [Project Two](assignments/p2.html). It is due `Sun Oct 22nd`
+* `begin` [Project Two](assignments/p2.html).
 
 #### Tutorials
 * `read` [Gene Kogan's transformations guide](https://genekogan.com/code/p5js-transformations/)
@@ -227,3 +227,23 @@ Please use the [Zoom link](https://clarkson.zoom.us/j/9445480243) to access toda
 * `watch` shiffman [9.1: Transformations Pt.1 (Translate, Rotate, Push/Pop)](https://youtu.be/o9sgjuh-CBM)
 * `watch` shiffman [9.2: Transformations Pt.2 (Scale)](https://youtu.be/pkHZTWOoTLM)
 * `watch` shiffman [9.3: Transformations Pt.3](https://youtu.be/IVMvq9rd8dA)
+
+
+## Week 7
+### In Class
+This week we'll learn about p5's noise function and continue working on Project Two.
+
+* `read` [p5 docs: noise()](https://p5js.org/reference/#/p5/noise)
+* `view examples:`
+  * `codepen`: [noise 1d circle](https://codepen.io/novonagu/pen/VmemGW?editors=0010)
+  * `codepen`: [noise line chart](https://codepen.io/novonagu/pen/WoPqqg?editors=0010)
+  * `codepen`: [random/perlin walk](https://codepen.io/novonagu/pen/xRZqGJ?editors=0010)
+  * `codepen`: [perlin fireflies](https://codepen.io/novonagu/pen/mOvNmx)
+  * `codepen`: [flow field](https://codepen.io/novonagu/pen/oYVEeP?editors=0010)
+* let's learn:
+  * `codepen`: [noise playground](https://codepen.io/novonagu/pen/qBLgaJB?editors=0011)
+  * `participation`: Post your pen (with your name on it) in the Slack thread.
+
+### At Home
+* `continue` [Project Two](assignments/p2.html).
+* __For Monday you must have a basic concept to share even if your code is buggy.__
