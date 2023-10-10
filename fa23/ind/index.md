@@ -142,7 +142,6 @@ Please use the [Zoom link](https://clarkson.zoom.us/j/9445480243) to access toda
 * `continue` presentations
 
 #### Wednesday - 10/4
-PART 1
 * `inspiration`: [Movie Ratings - Box-and-Whisker Plot](https://www.reddit.com/r/dataisbeautiful/comments/16ywcoa/oc_ever_wondered_which_genre_of_movies_has_the/?utm_source=share&utm_medium=web2x&context=3)
 * `visit` [Fun Kaggle Datasets](https://www.kaggle.com/code/rtatman/fun-beginner-friendly-datasets)
   * `download` the UFO data
@@ -151,11 +150,47 @@ PART 1
 * `participation` - Submit a screenshot of your work to the Slack thread
 * `discuss` [Homework Two](assignments/hw2.html)
 
-PART 2 (if time permits)
-1. `visit` [Intro to QoG](https://www.gu.se/en/quality-government)
-2. `explore` [QoG Basic dataset](https://www.gu.se/en/quality-government/qog-data/data-downloads/basic-dataset)
-  * Check out the codebook (make sure it's the 'basic' one)
-
 ### At Home
 * `begin` [Homework Two](assignments/hw2.html)
 * `read` Chapter 4 of _Storytelling with Data_
+
+## Week 7
+### In Class
+#### Wednesday - 10/11
+__Before we begin:__
+First make sure you have Tableau working on your machine. You will need to do two things:
+1. Download and install [Tableau Desktop](https://www.tableau.com/products/desktop/download)
+2. Use the license key that I emailed you
+
+———
+For today's `participation` you will submit a screenshot of your Tableau work to the Slack thread
+
+`inspiration`: Quality of Government Institute
+1. `visit` [Intro to QoG](https://www.gu.se/en/quality-government)
+2. `explore` [QoG Basic dataset](https://www.gu.se/en/quality-government/qog-data/data-downloads/basic-dataset)
+* Check out the codebook (make sure it's the 'basic' one)
+
+Some examples
+* `download`: Nic's [QoG Example Workbook](https://drive.google.com/file/d/1-b2pk3ZjnJ9DEO2hA6OKx2cNXptbPIp7/view?usp=drive_link)
+* `view`: [QoG Visualization Explorer](https://www.gu.se/en/quality-government/qog-data/visualization-tools)
+
+Let's make sure we know how to:
+1. Find the correct dataset
+2. Find the accompanying codebook
+3. Explore the data in Google Sheets/Excel
+4. Load it into Tableau
+5. Use the codebook to find the variables we want
+6. Visualize (this is the exploratory phase)
+
+Specific Tableau features to master:
+1. Filters (show/hide on dashboard)
+2. Trend lines on scatter plots
+3. Dealing with nulls in data
+4. Formatting decimal to percentage
+5. Tooltips - Changing text
+6. Editing axis labels
+7. Making a dashboard
+8. Showing/hiding legends on dashboard
+
+## At Home
+* `complete` [Homework Two](assignments/hw2.html)
