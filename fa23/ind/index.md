@@ -192,5 +192,5 @@ Specific Tableau features to master:
 7. Making a dashboard
 8. Showing/hiding legends on dashboard
 
-## At Home
+### At Home
 * `complete` [Homework Two](assignments/hw2.html)
