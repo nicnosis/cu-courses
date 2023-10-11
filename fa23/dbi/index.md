@@ -180,3 +180,16 @@ Please use the [Zoom link](https://clarkson.zoom.us/j/9445480243) to access toda
 ### At Home
 * `begin` [Homework Two](assignments/hw2.html)
 * `read` p.54-69 (Up to Brand Dynamics/Trends)
+
+## Week 7
+### In Class
+#### Wednesday - 10/11
+* `recap`: Brand Elements
+* `lecture`: [Visual Identity](https://docs.google.com/document/d/18AanB3QJNGyC39yMz6qjTntei49IcoPjv0wl73aYZM4/edit?usp=sharing)
+* `participation`: read the above document for instructions
+  * `reply` to the Slack thread with your Google Doc.
+
+
+### At Home
+* `complete` [Homework Two](assignments/hw2.html)
+* `read` p.70-83 (Up to Brand Licensing)
