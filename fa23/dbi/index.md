@@ -193,3 +193,32 @@ Please use the [Zoom link](https://clarkson.zoom.us/j/9445480243) to access toda
 ### At Home
 * `complete` [Homework Two](assignments/hw2.html)
 * `read` p.70-83 (Up to Brand Licensing)
+
+## Week 8
+### In Class
+#### Monday - 10/16
+* `inspiration`: [nomo](https://www.behance.net/gallery/150673609/Nomo)
+* `lecture`: Logo Design
+
+——`participation`: Logo Design Process——
+
+Please refer to last week's __Visual Identity Design Process__:
+1. Define the Brand— Researching the brand's mission, values, and target audience.
+2. Research and Inspiration— Studying competitors, brainstorming, and gathering design inspiration.
+3. Create Design Elements— Designing the logo, selecting colors, fonts, imagery guidelines etc.
+
+You will assume that part 1 is done (just use your imagination). Spend a few minutes on brainstorming and looking up other examples, then immediately start sketching out logos.
+
+Please submit at least two logo concepts today. They can be sketchy/unrefined as this is still in the ideation phase.
+
+You will submit your logo on the Slack thread (please make sure you put the names of everybody in your group).
+
+###### TEAMS
+* Team 1--- Bottled water targeting tech people
+* Team 2--- Energy/Utilities with a focus on sustainability
+* Team 3--- After-School care for gifted students 
+* Team 4--- City rental bikes with a focus on safety
+* Team 5--- Office cleaning services with a personal touch
+
+### At Home
+* `begin` [Project Two](assignments/p2.html)

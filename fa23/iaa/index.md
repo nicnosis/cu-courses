@@ -231,6 +231,7 @@ Please use the [Zoom link](https://clarkson.zoom.us/j/9445480243) to access toda
 
 ## Week 7
 ### In Class
+#### Wednesday - 10/11
 This week we'll learn about p5's noise function and continue working on Project Two.
 
 * `read` [p5 docs: noise()](https://p5js.org/reference/#/p5/noise)
@@ -246,4 +247,15 @@ This week we'll learn about p5's noise function and continue working on Project 
 
 ### At Home
 * `continue` [Project Two](assignments/p2.html).
-* __For Monday you must have a basic concept to share even if your code is buggy.__
+* __For Monday: you must have a basic concept to share even if your code is buggy.__
+
+## Week 8
+### In Class
+#### Monday - 10/16
+You will present your Project Two ideas.
+
+#### Wednesday - 10/18
+Code Jam session.
+
+### At Home
+* `continue` [Project Two](assignments/p2.html).

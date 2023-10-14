@@ -23,6 +23,8 @@ Import the selected dataset into Tableau.
 1. Option 1--- Pick a dataset from the [Fun, Beginner-Friendly Kaggle Datasets](https://www.kaggle.com/code/rtatman/fun-beginner-friendly-datasets)
 2. Option 2--- Use your own dataset. You might visit the [inspiration section](../inspiration.html) of the site and browse some of the datasets
 
+__Please do not use the Quality of Government (QoG) dataset because we're using it for another assignment.__
+
 ### 2) Data Exploration and Visualization
 First, explore the data in Google Sheets to get a feel for its shape, size, and variables.
 
