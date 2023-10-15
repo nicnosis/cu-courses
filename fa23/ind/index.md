@@ -194,3 +194,19 @@ Specific Tableau features to master:
 
 ### At Home
 * `complete` [Homework Two](assignments/hw2.html)
+
+## Week 8
+### In Class
+#### Monday - 10/16
+* `inspiration`: [PlotAPI - Movie Genres](https://plotapi.com/explore/view/9fc00660-e706-40fc-981f-96d323f752d3)
+  * Do you think this is an effective way to show the data?
+  * What insights can you take away from this?
+  * How else might you visualize this data?
+* `workshop`: Homework Two
+* `practice`: Tableau
+
+### At Home
+* `begin` [Project Two](assignments/p2.html)
+* For `Monday Oct 23rd` please be prepared so share progress. You should have:
+  * A dataset you're committed to
+  * At least one simple visualization to start with
