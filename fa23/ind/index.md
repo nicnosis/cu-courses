@@ -202,8 +202,19 @@ Specific Tableau features to master:
   * Do you think this is an effective way to show the data?
   * What insights can you take away from this?
   * How else might you visualize this data?
-* `workshop`: Homework Two
-* `practice`: Tableau
+
+---HW2 Workshop---
+You will group up and critique one another's work.
+
+You will answer two key questions:
+1. What was most effective?
+2. What could be improved?
+
+Then, we'll get together as a class and cover:
+  * Dashboard best practices
+  * Interactivity and filtering
+  * Formatting/cleaning up visualizations
+  * Test to make sure you can publish to Tableau Public
 
 ### At Home
 * `begin` [Project Two](assignments/p2.html)
