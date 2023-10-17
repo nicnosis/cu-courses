@@ -217,10 +217,21 @@ Then, we'll get together as a class and cover:
   * Test to make sure you can publish to Tableau Public
 
 #### Wednesday - 10/18
+Tableau Practice
+* `download` [ch03.zip](lt/ch03.zip).
 
+Let's cover:
+* Connecting to data sources (relationships)
+* Bullet graph 
+  * Beware of 'Swap Reference Line Fields' 
+  * Stacking marks
+  * custom fields
+* Bar-in-bar chart
+
+__For Monday:__ Please make sure you have at least a foundation for Project Two. We will be actively working with your files in class.
 
 ### At Home
 * `begin` [Project Two](assignments/p2.html)
 * For `Monday Oct 23rd` please be prepared so share progress. You should have:
-  * A dataset you're committed to
-  * At least one simple visualization to start with
+  1. A dataset you're committed to
+  2. At least two simple visualizations to start with
