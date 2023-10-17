@@ -220,5 +220,21 @@ You will submit your logo on the Slack thread (please make sure you put the name
 * Team 4--- City rental bikes with a focus on safety
 * Team 5--- Office cleaning services with a personal touch
 
+#### Wednesday - 10/18
+* `read` [A Five Minute Guide to Better Typography](https://medium.muz.li/typography-that-sacred-cow-ea7a5909ca70) by Pierrick Calvez
+* `read` [Blind's Typography Guide](https://blind.com/blog/typography-manual/)
+* `read` [Understanding Type](mats/understanding-type.pdf)
+  * `credit` to my colleague, Steve Layton of Indiana University
+* `lecture`: Type
+
+* `participation`: (if we have time...)
+  * Find some sample typefaces for the following situations. Please reply with your images to the Slack thread.
+  1. A wedding invitation
+  2. A metal band
+  3. Body text for a travel-based mobile app
+  4. A children's book cover
+  5. Fashion magazine headlines
+
+
 ### At Home
 * `begin` [Project Two](assignments/p2.html)
