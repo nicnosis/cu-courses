@@ -255,7 +255,25 @@ This week we'll learn about p5's noise function and continue working on Project 
 You will present your Project Two ideas.
 
 #### Wednesday - 10/18
-Code Jam session.
+Remix: Code Jam
+* Today is a ‘Remix’ Code Jam session. You will take the work of one of your classmates and change, build, or expand the project through your unique vision.
+* This will give you valuable experience in `contribution`--- working together on coding projects.
+* You will gain comfort in reading/editing others' code and contributing your artistic perspective.
+
+Process
+1. You will be assigned into groups of 2-3.
+2. Select one of your projects to be remixed--- either P1 or P2.
+3. Somebody else in your group will `fork` your project on Codepen and build on it.
+4. Please rename the Pen and make sure it has both of your names. It should be a format kinda like this: `John Doe - P1 - remixed by Nic Aguirre`
+4. Make sure everybody has (1) somebody remixing their project and (2) somebody else’s project to remix
+5. We will present the 'remixed' artwork at the end of class.
+
+Pointers
+1. Communicate often with your teammate and ask for help/clarification on technical aspects of their code
+2. Have fun and don't take it too seriously. Be willing to make mistakes and have your work be imperfect (ironically, this often leads to better outcomes)
+3. See if your teammate is cool with you using the art on your portfolio. As long as you credit them, this allows everybody to create extra portfolio pieces.
+
+`Participation`: Reply to my Slack thread with the forked Codepen
 
 ### At Home
 * `continue` [Project Two](assignments/p2.html).

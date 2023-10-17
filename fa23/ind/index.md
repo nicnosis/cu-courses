@@ -216,6 +216,9 @@ Then, we'll get together as a class and cover:
   * Formatting/cleaning up visualizations
   * Test to make sure you can publish to Tableau Public
 
+#### Wednesday - 10/18
+
+
 ### At Home
 * `begin` [Project Two](assignments/p2.html)
 * For `Monday Oct 23rd` please be prepared so share progress. You should have:
