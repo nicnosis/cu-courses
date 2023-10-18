@@ -48,7 +48,7 @@ Grading considerations:
 ## Submission
 You will submit two files:
 1. Your `.ai` Illustrator File. Please name it `hw2-lastname-firstname.ai`
-2. A `.png` export of your drawing. Please name it `hw2-lastname-firstname.pdf`
+2. A `.pdf` export of your drawing. Please name it `hw2-lastname-firstname.pdf`
 
 Also:
 * Make sure your filenames are __all lowercase with no spaces or underscores__.
