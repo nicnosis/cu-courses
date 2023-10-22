@@ -277,3 +277,11 @@ Pointers
 
 ### At Home
 * `continue` [Project Two](assignments/p2.html).
+
+## Week 9
+### In Class
+#### Monday - 10/22
+ * `present` Project Two
+ * `download` [1-basics.hipnc](houdini/1-basics.hipnc)
+ * `download` [2-organic-wires.hipnc](houdini/2-organic-wires.hipnc)
+
