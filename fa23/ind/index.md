@@ -235,3 +235,26 @@ __For Monday:__ Please make sure you have at least a foundation for Project Two.
 * For `Monday Oct 23rd` please be prepared so share progress. You should have:
   1. A dataset you're committed to
   2. At least two simple visualizations to start with
+
+## Week 9
+### In Class
+#### Monday - 10/23
+`Project Two Workshop`
+
+We will start with `group critiques`. Take turns sharing your progress and get feedback on the following:
+
+1. __What Message Does the Visualization Convey?__— Get your partner(s) to describe the main message or insights they intended to convey through their visualization. Does the visualization effectively communicate this message? If not, what suggestions do you have to improve the clarity of the message?
+2. __What Works Well in the Visualization?__— Highlight the strengths and positive aspects of your partner's visualization. What elements are effective, clear, and engaging?
+3. __How Can the Visualization Be Improved?__—Provide specific suggestions for improvement. Are there any elements that could be clearer, more concise, or more visually appealing? Discuss potential adjustments to enhance the overall quality of the visualization
+
+
+`participation`: Post your answers to the following questions in the Slack thread.
+
+__Wrap-up questions:__
+
+1. What is your biggest takeaway from today?
+2. What is the very next action step you will take on your project?
+
+
+### At Home
+* `continue` [Project Two](assignments/p2.html)

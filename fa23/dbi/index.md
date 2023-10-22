@@ -241,7 +241,7 @@ You will submit your logo on the Slack thread (please make sure you put the name
 
 ## Week 9
 ### In Class
-#### Monday - 10/22
+#### Monday - 10/23
 * `lecture`: Color Theory
 * `check out` [Adobe Color](https://color.adobe.com/create/color-wheel)
 * `check out` [color hunt](https://colorhunt.co/)

@@ -280,7 +280,7 @@ Pointers
 
 ## Week 9
 ### In Class
-#### Monday - 10/22
+#### Monday - 10/23
  * `present` Project Two
  * `download` [1-basics.hipnc](houdini/1-basics.hipnc)
  * `download` [2-organic-wires.hipnc](houdini/2-organic-wires.hipnc)
