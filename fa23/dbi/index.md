@@ -238,3 +238,19 @@ You will submit your logo on the Slack thread (please make sure you put the name
 
 ### At Home
 * `begin` [Project Two](assignments/p2.html)
+
+## Week 9
+### In Class
+#### Monday - 10/22
+* `lecture`: Color Theory
+* `check out` [Adobe Color](https://color.adobe.com/create/color-wheel)
+* `check out` [color hunt](https://colorhunt.co/)
+* Also make sure you check out the [inspiration section](inspiration.html) for more color tools.
+* `participation`: I will make a Slack thread for each team. Your team is assigned two colors. For each color, find at least two branding images that capture the essence/emotion of that color and post them into the thread. 
+  * Team One: Yellow / Orange
+  * Team Two: Red / Violet
+  * Team Three: Blue / Green
+  * Team Four: White / Black
+
+### At Home
+* `continue` [Project Two](assignments/p2.html)
