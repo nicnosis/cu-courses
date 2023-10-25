@@ -252,5 +252,24 @@ You will submit your logo on the Slack thread (please make sure you put the name
   * Team Three: Blue / Green
   * Team Four: White / Black
 
+#### Wednesday - 10/25
+* Talk about themes for P2.
+* `lecture`: Stylescapes
+* `participation`:
+  * You will be placed into teams.
+  * You will be given a concept.
+  * Create a document (Google Docs or Google Slides) with a (simplified) stylescape for your concept. 
+  * For `inspiration` use [this Behance search for 'stylescape'](https://www.behance.net/search/projects?tracking_source=typeahead_search_direct&search=stylescape)
+  * Team One: A community-based initiative promoting urban gardening and local produce.
+  * Team Two: A cozy and minimalist home decor brand inspired by Danish culture.
+  * Team Three: A fitness studio that combines art and exercise.
+  * Team Four: A pet-friendly outdoor festival with activities for animals and their owners.
+  * Team Five: A virtual reality gaming company with immersive experiences.
+* Please be aware— __On Monday__ you will have a `progress check` for Project Two. Please have:
+  1. A theme you're committed to
+  2. At least one slide of visual inspiration
+
 ### At Home
 * `continue` [Project Two](assignments/p2.html)
+* __For Monday:__ You must have progress to present for Project Two.
+

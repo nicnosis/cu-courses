@@ -285,3 +285,40 @@ Pointers
  * `download` [1-basics.hipnc](houdini/1-basics.hipnc)
  * `download` [2-organic-wires.hipnc](houdini/2-organic-wires.hipnc)
 
+#### Wednesday - 10/25
+* `download` [grid-random.hipnc](houdini/grid-random.hipnc)
+* `download` [organic-practice.hipnc](houdini/organic-practice.hipnc)
+
+
+Let's make sure we understand:
+- primitives
+- copy to points
+- smooth
+- transform
+- scale, rotate, move
+- point lights
+- basic rendering
+- placing a grid
+- using rbdbulletsolver for basic collision
+- material basics
+
+Some shortcuts:
+1. `spacebar` - view tool
+2. `spacebar + b` - all views
+3. `spacebar + a` - frame all
+4. `c` - radial menu
+5. `v` - view options
+6. `d` - display
+7. in network pane: `n` - network menu
+8. `tab` - find anything
+
+
+Pane stuff:
+- maximize pane, add pane
+- Desktop menu
+
+For today's `participation` - reply to the Slack thread with an image of your Houdini rendering (any geometry is fine)
+
+### At Home
+* `start` watching [Houdini Foundations](https://www.sidefx.com/tutorials/foundations-overview/)
+  * Introduction and 1-3
