@@ -256,5 +256,8 @@ __Wrap-up questions:__
 2. What is the very next action step you will take on your project?
 
 
+#### Wednesday - 10/25
+P2 Workshop continued
+
 ### At Home
 * `continue` [Project Two](assignments/p2.html)
