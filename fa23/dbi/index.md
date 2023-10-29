@@ -273,3 +273,31 @@ You will submit your logo on the Slack thread (please make sure you put the name
 * `continue` [Project Two](assignments/p2.html)
 * __For Monday:__ You must have progress to present for Project Two.
 
+## Week 10
+### Announcement: Course Structure Changes
+As mentioned before, I am removing one homework and one project.
+
+This way, you can focus on a more solid final project.
+
+* `view` [this image](img/dbi-grade-changes.png) for a breakdown of the new point structure
+* As you can see, the distribution of points will remain roughly the same.
+
+### In Class
+#### Monday - 10/30
+`Mini Critique Session`
+- You will be placed in small groups.
+- You will briefly present your idea and slides.
+- Your teammate(s) will answer two questions:
+1. What is working well with your design?
+2. What could be improved and how would you improve it?
+- Each person will have __three minutes__ to please be mindful of the time.
+
+`Progress Check`
+- After our critiques, you will present briefly for the entire class.
+
+`Participation`
+- For today, reply to the Slack thread and answer the following:
+  - What is your next step with the project?
+
+### At Home
+* `complete` [Project Two](assignments/p2.html)
