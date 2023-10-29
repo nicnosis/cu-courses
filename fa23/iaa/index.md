@@ -322,3 +322,27 @@ For today's `participation` - reply to the Slack thread with an image of your Ho
 ### At Home
 * `start` watching [Houdini Foundations](https://www.sidefx.com/tutorials/foundations-overview/)
   * Introduction and 1-3
+
+
+## Week 10
+### In Class
+#### Monday - 10/30
+Topics:
+* `materials` and `shaders`
+* `environment lights` and using [hdri](https://hdri-haven.com/) images
+* `cameras` and `rendering`
+* more `vop` stuff
+* `keyframe` basics
+
+Action:
+* `download` [donut4.hipnc](houdini/donut4.hipnc)  
+* `download` [twisty.hipnc](houdini/twisty.hipnc)  
+* `get` an HDRI from [hdri haven](https://hdri-haven.com/)
+
+Most of this content is based off of these tutorials:
+1. [Houdini Isn't Scary](https://www.youtube.com/watch?v=Xz2hR9vl0GY)
+2. [Inside the Mind](https://www.youtube.com/watch?v=kZAYWIJQlsU)
+
+### At Home
+* `begin` [Homework Three](assignments/hw3.html)
+* `continue` watching [Houdini Foundations](https://www.sidefx.com/tutorials/foundations-overview/)
