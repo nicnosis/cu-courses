@@ -261,3 +261,15 @@ P2 Workshop continued
 
 ### At Home
 * `continue` [Project Two](assignments/p2.html)
+
+## Week 10
+### In Class
+#### Monday - 10/30
+We will continue working on Project Two.
+
+Please be prepared to share your progress.
+
+I will select students who haven't shared yet for review.
+
+### At Home
+* `continue` [Project Two](assignments/p2.html)
