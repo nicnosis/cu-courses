@@ -299,5 +299,39 @@ This way, you can focus on a more solid final project.
 - For today, reply to the Slack thread and answer the following:
   - What is your next step with the project?
 
+#### Wednesday - 11/1
+Today is divided into two parts:
+1. Discussion: Branding Trends and Re-Branding
+2. Challenge: Re-Brand a local biz
+
+---PART ONE---
+`Discussion`: Branding trends and Re-branding
+1. You will be placed into groups.
+2. Read and the article and jot down important points.
+3. Discuss as a group and answer the following question:
+   1. What are your biggest takeaways? Come up with 3 points/principles to share with the class.
+4. And finally, for each person, reply to the `Participation` thread with your answer to this question:
+   1. How might you apply today's learnings to your project?
+
+__Team 1__ --- Tropicana
+* `read` [What to Learn From Tropicana’s Packaging Redesign Failure?](http://www.thebrandingjournal.com/2015/05/what-to-learn-from-tropicanas-packaging-redesign-failure/)
+
+__Team 2__ --- Kia
+* `read` [Kia's Logo Redesign Was a Total Flop.](https://www.inc.com/nick-hobson/kias-logo-redesign-was-a-total-flop-company-did-what-no-brand-should-ever-do.html)
+
+__Team 3__ --- Plain Packaging
+* `read` [Iconic brands and the clamour for a utilitarian world wrapped in brown paper packaging](http://www.independent.co.uk/news/long_reads/guiness-cristal-brands-folklore-rolls-royce-public-health-england-utilitarian-trademarks-marlboro-a7767156.html)
+
+__Team 4__ --- Trends
+* `read` [The 5 Hottest Branding Trends We're Watching in 2023](https://zebranding.com/blog/the-5-hottest-branding-trends-were-watching-in-2023/)
+
+__Bonus Article__ --- If you are interested in reading more:
+* `read` [13 of the Most Successful Rebrands Ever](https://www.canny-creative.com/most-successful-rebrands-with-key-takeaways/)
+
+---PART TWO: Re-Design---
+* `check out` the [Roxy Theater's website](https://www.jscinemas.com/)
+* You will draft a simple re-design to create some cohesion in the brand identity.
+
+
 ### At Home
 * `complete` [Project Two](assignments/p2.html)

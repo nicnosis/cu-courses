@@ -271,5 +271,23 @@ Please be prepared to share your progress.
 
 I will select students who haven't shared yet for review.
 
+#### Wednesday - 11/1
+Today will be broken into three parts.
+
+(1) Peer Check-in 
+- We will do a very quick check-in on projects, so you can get peer feedback.
+- Please discuss:
+
+1. Narrative - Is the story of your visualizations clear?
+2. Appearance - Do you need to clean up any of the visualizations?
+
+(2) Tableau Tutorial 
+- We will do a tutorial from _Learning Tableau_ together.
+- We will cover __Calculated Fields__ which can be useful to get insights from your data by creating new custom variables.
+- `download` [ch04.zip](lt/ch04.zip)
+
+(3) P2 Open Workshop
+- We will continue working on projects together.
+
 ### At Home
 * `continue` [Project Two](assignments/p2.html)
