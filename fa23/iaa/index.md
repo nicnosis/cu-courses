@@ -343,6 +343,9 @@ Most of this content is based off of these tutorials:
 1. [Houdini Isn't Scary](https://www.youtube.com/watch?v=Xz2hR9vl0GY)
 2. [Inside the Mind](https://www.youtube.com/watch?v=kZAYWIJQlsU)
 
+#### Wednesday - 11/1
+We will continue our work with Houdini.
+
 ### At Home
 * `begin` [Homework Three](assignments/hw3.html)
 * `continue` watching [Houdini Foundations](https://www.sidefx.com/tutorials/foundations-overview/)
