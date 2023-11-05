@@ -24,6 +24,8 @@ Another good option is this [vellum grain](https://www.sidefx.com/tutorials/vell
 
 
 ## Submission
+Please name your file `hw3-lastname-firstname.hipnc`
+
 Submit your project _(`.hipnc` or `.hip`)_ file to Moodle.
 
 #### `Due Monday November 6th @ 11:59pm`

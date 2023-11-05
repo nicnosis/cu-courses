@@ -349,3 +349,14 @@ We will continue our work with Houdini.
 ### At Home
 * `begin` [Homework Three](assignments/hw3.html)
 * `continue` watching [Houdini Foundations](https://www.sidefx.com/tutorials/foundations-overview/)
+
+## Week 11
+### In Class
+#### Monday - 11/6
+- `download` [merge-copy-shape.hipnc](houdini/merge-copy-shape.hipnc)
+- `download` [lego.hipnc](houdini/lego.hipnc)
+   - you can find the notes for this tutorial [here](https://docs.google.com/document/d/1qDvnxEbusKOra32o8SIlSOmFwrH3tEluOk2jWt2lUpQ/edit?usp=sharing)
+
+#### At Home
+- `complete` [Homework Three](assignments/hw3.html)
+
