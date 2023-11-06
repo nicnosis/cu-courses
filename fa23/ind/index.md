@@ -291,3 +291,22 @@ Today will be broken into three parts.
 
 ### At Home
 * `continue` [Project Two](assignments/p2.html)
+
+## Week 11
+### In Class
+### Announcement: Course Structure Changes
+As mentioned before, I am removing one homework and one project.
+
+This way, you can focus on a more solid final project.
+
+* `view` [this image](img/ind-grade-changes.png) for a breakdown of the new point structure
+* As you can see, the distribution of points will remain roughly the same.
+
+
+#### Monday - 11/6
+Presentation Day!
+
+Be ready to share and receive feedback.
+
+In the Slack thread please share---
+- If you could change one thing about how you approached this project, what would you change?

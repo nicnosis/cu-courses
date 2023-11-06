@@ -335,3 +335,14 @@ __Bonus Article__ --- If you are interested in reading more:
 
 ### At Home
 * `complete` [Project Two](assignments/p2.html)
+
+
+## Week 11
+### In Class
+#### Monday - 11/6
+Presentation day!
+
+Be ready to share and receive feedback.
+
+In the Slack thread please share---
+- If you could change one thing about how you approached this project, what would you change?
