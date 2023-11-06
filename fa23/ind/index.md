@@ -308,5 +308,5 @@ Presentation Day!
 
 Be ready to share and receive feedback.
 
-In the Slack thread please share---
-- If you could change one thing about how you approached this project, what would you change?
+Please publish your story to Tableau Public.
+
