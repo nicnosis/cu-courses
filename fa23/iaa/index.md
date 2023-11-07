@@ -357,6 +357,35 @@ We will continue our work with Houdini.
 - `download` [lego.hipnc](houdini/lego.hipnc)
    - you can find the notes for this tutorial [here](https://docs.google.com/document/d/1qDvnxEbusKOra32o8SIlSOmFwrH3tEluOk2jWt2lUpQ/edit?usp=sharing)
 
+#### Wednesday - 11/8
+It's review time. Let's cover:
+
+1. View Tool and Viewport
+2. Network Pane
+3. Primitives
+4. Cameras
+5. Lighting and Environment lights
+6. Rendering
+7. Parameter Interface
+8. Transformations and Transforms
+   - Translation, rotation, and scaling of objects.
+   - Pivot and handle manipulation.
+   - Using the Transform node.
+9. Materials and Shaders
+   - Applying materials to objects.
+   - Introduction to the Principled Shader.
+   - Adjusting material properties.
+10. Geometry Operators (SOPs)
+    - Using SOP nodes for modeling and manipulation. (e.g. polyextrude)
+    - Combining and modifying geometry.
+11. Digital Assets
+    - Creating and using digital assets.
+    - Building custom tools and workflows.
+12. Attributes and Attribute Wrangle
+    - Working with point, vertex, and primitive attributes.
+    - Using the Attribute Wrangle SOP for attribute manipulation.
+
+
 #### At Home
 - `complete` [Homework Three](assignments/hw3.html)
 

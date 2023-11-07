@@ -310,3 +310,26 @@ Be ready to share and receive feedback.
 
 Please publish your story to Tableau Public.
 
+#### Wednesday - 11/8
+Let's learn Figma.
+
+Use [this link](https://www.figma.com/signup) to sign up. It's completely free.
+
+In no particular order, we can cover:
+- Navigating the Figma interface
+- Artboards and frames
+- Layers and grouping elements
+- Selection and manipulation of objects
+- Creating and styling basic shapes and text
+- Working with fills and strokes
+- Alignment and distribution of objects
+- Figma libraries and components
+- Using vector editing tools
+- Layers, frames, and organization
+- Collaborative design in Figma
+- Basic prototyping and interactions
+- Exporting and sharing
+- Keyboard shortcuts
+
+### At Home
+* `begin` [Homework Three](assignments/hw3.html)
