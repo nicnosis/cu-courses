@@ -386,6 +386,28 @@ It's review time. Let's cover:
     - Using the Attribute Wrangle SOP for attribute manipulation.
 
 
-#### At Home
+### At Home
 - `complete` [Homework Three](assignments/hw3.html)
 
+## Week 12
+### Announcement: Course Structure Changes
+As mentioned before, I am removing one homework and one project.
+
+This way, you can focus on a more solid final project.
+
+* `view` [this image](img/iaa-grade-changes.png) for a breakdown of the new point structure
+* As you can see, the distribution of points will remain roughly the same.
+
+
+### In Class
+#### Monday - 11/13
+Today, Monday (11/13) you will work asynchronously— We will not meet for class; you will work independently. Instructions will be on the course website for Monday.
+
+On Wednesday (11/15) we will have our Zoom class at the normal time.
+
+* `complete` [tutorial: NODES, NETWORKS & DIGITAL ASSETS](https://www.sidefx.com/tutorials/nodes-networks-digital-assets/)
+  * You might use the [pdf tutorial](https://media.sidefx.com/uploads/tutorial/foundations/h19/hfoundations_03_nodes_networks_assets.pdf) that comes with it
+  * There is also a [YouTube playlist](https://www.youtube.com/playlist?list=PLXNFA1EysfYnXkY_0xbq8TWuRJFjy9b1q). These videos have links to the lesson/project files also.
+  * If you don't get through all of it, that's fine.
+* You don't need to make digital assets or animate, but you can if you want
+* No `participation` submission today.

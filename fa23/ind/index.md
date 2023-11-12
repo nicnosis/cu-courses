@@ -333,3 +333,23 @@ In no particular order, we can cover:
 
 ### At Home
 * `begin` [Homework Three](assignments/hw3.html)
+
+## Week 12
+### In Class
+#### Monday - 11/13
+Today, Monday (11/13) you will work asynchronously— We will not meet for class; you will work independently. Instructions will be on the course website for Monday.
+
+On Wednesday (11/15) we will have our Zoom class at the normal time.
+
+Today, you will be watching tutorials from Mizko's series _Figma Tutorials: The Ultimate Crash Course_. This is an exceptional YouTube series that takes you through the fundaments of using Figma.
+
+Today, watch:
+ * [Introduction to Figma](https://youtu.be/TYhp4s-vjK4?si=_6pV7br1OICcwHd5)
+ * [Setup a Responsive Grid Layout for UI & Web Design](https://www.youtube.com/watch?v=_w-iYiEXrl0&list=PLvnhVb8yYRQ3TDOsSgN0pf0XqG6E56IYM&index=2)
+ * [Create the Perfect Typography Scale for UI & Web Projects](https://youtu.be/6EuBIwUeF48?si=Gm_HSryCjpVSTkQP)
+
+There is no `participation` submission, but you should feel comfortable with Figma basics, grid layouts, constraints, and creating typography scales.
+
+
+### At Home
+* `complete` [Homework Three](assignments/hw3.html)

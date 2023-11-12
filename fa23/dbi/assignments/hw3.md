@@ -71,4 +71,4 @@ Submit it to Moodle.
 This assignment is worth `7 pts.`.
 
 ### Due Date
-This is due `Friday, November 17th @ 11:59pm`
+This is due `Tuesday, November 21st @ 11:59pm`
