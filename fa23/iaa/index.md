@@ -411,3 +411,14 @@ On Wednesday (11/15) we will have our Zoom class at the normal time.
   * If you don't get through all of it, that's fine.
 * You don't need to make digital assets or animate, but you can if you want
 * No `participation` submission today.
+
+#### Wednesday - 11/15
+__First: Let's have a poll regarding Monday.__
+
+- `download` [loop-cube.hipnc](houdini/loop-cube.hipnc)
+- `download` [loop-polygon.hipnc](houdini/loop-polygon.hipnc)
+
+
+
+### At Home
+- `begin` [Project Three](assignments/p3.html)

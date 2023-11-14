@@ -350,6 +350,35 @@ Today, watch:
 
 There is no `participation` submission, but you should feel comfortable with Figma basics, grid layouts, constraints, and creating typography scales.
 
+#### Wednesday - 11/15
+__First: Let's have a poll regarding Monday.__
+
+##### Part One - Review: Components
+A quick review of component creation in Figma
+
+##### Part Two - Challenge: Design Sprint
+ - You will work in teams to create a simple prototype.
+ - You can use either desktop or mobile size, but mobile is probably a little easier to design for.
+ - Create at least __three screens__.
+ - Make use of __components__ where appropriate--- repeating elements such as headings, buttons, icons etc.
+
+1. Team One: Design a Website Landing Page
+    - Create a landing page for a fictional product or service.
+    - Emphasize visual appeal, clear messaging, and a call-to-action.
+
+2. Team Two: Educational App for Kids:
+    - Design a mobile app interface for an educational application targeting young children.
+    - Include interactive elements, vibrant colors, and easy navigation.
+
+3. Team Three: Collaborative Workspace Dashboard
+    - Design a dashboard for a collaborative workspace platform.
+    - Include features like project tracking, team communication, etc.
+
+4. Team Four: E-commerce Product Page
+    - Design a product page for an e-commerce website.
+    - Consider elements such as product images, descriptions, and a seamless checkout process.
+
 
 ### At Home
 * `complete` [Homework Three](assignments/hw3.html)
+* `begin` [Project Three](assignments/p3.html)
