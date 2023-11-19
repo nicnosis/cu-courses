@@ -382,3 +382,37 @@ A quick review of component creation in Figma
 ### At Home
 * `complete` [Homework Three](assignments/hw3.html)
 * `begin` [Project Three](assignments/p3.html)
+
+## Week 13
+### In Class
+#### Monday - 11/20
+Today Monday (11/20) you will work asynchronously— We will not meet for class; you will work independently.
+
+Today you will complete more tutorials. The goal is to keep your skills sharp as you progress on Project Three.
+
+`Participation`: Respond to the Slack thread for 11/20 with a screenshot of something you created today (don't worry if it doesn't look exactly like the tutorials).
+
+#### Regarding Project Three
+Please begin working on Project Three if you haven't already.
+* Instead of making all of your components from scratch, you might consider using this [Free Essential UI Kit](https://www.figma.com/community/file/883657911603554993)
+* Your concept is due `Sunday Nov 26th at 11:59pm`. You must reply to the Slack thread with a `pdf` of your concept before class because we will cover them on Monday Nov 27th.
+
+__Tutorials for this week:__
+1. [Create a Figma Design System pt. 1](https://youtu.be/G1xmkQeExJo?si=GJ11nRfu_I-l0Utk)
+2. [Create a Figma Design System pt. 2](https://youtu.be/uSZirUYhtf4?si=0HyOSTCuBkR9BVuv)
+3. [Create a Figma Design System pt. 3](https://youtu.be/2bkj_IqDs2I?si=NnpioWLnXNLvf89C)
+
+Remember to submit your `participation` screenshot to the Slack thread.
+
+If you want to take things a step further, these are also good:
+ * [Auto Layout & Constraints](https://youtu.be/rsE9MBOHQjE?si=Etbm2WUHnFjgKLxp)
+ * [Figma Variants](https://youtu.be/cE2fCeWqjnY?si=lErzltLzGINHrqXL)
+ * [Create Interactive Components](https://youtu.be/4KAXczKx1h4?si=4lYUoQOvZfr93hNp)
+ * [Top 5 Figma Plugins](https://youtu.be/gn5bLX1RgQg?si=uscxeGUMPq1IYSFO)
+
+
+You can also find [the full playlist here](https://www.youtube.com/playlist?list=PLvnhVb8yYRQ3TDOsSgN0pf0XqG6E56IYM) if you want to learn more!
+
+### At Home
+* `continue` [Project Three](assignments/p3.html)
+* Please remember to submit your concept as a `pdf` to the slack thread by `Sunday Nov 26th at 11:59pm`.
