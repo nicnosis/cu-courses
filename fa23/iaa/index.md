@@ -419,6 +419,28 @@ __First: Let's have a poll regarding Monday.__
 - `download` [loop-polygon.hipnc](houdini/loop-polygon.hipnc)
 
 
-
 ### At Home
 - `begin` [Project Three](assignments/p3.html)
+
+## Week 13
+### In Class
+#### Monday - 11/20
+Today Monday (11/20) you will work asynchronously— We will not meet for class; you will work independently.
+
+Today you will complete another tutorial. The goal is to keep your skills sharp as you progress on Project Three.
+
+`Participation`: Respond to the Slack thread for 11/20 with a screenshot or rendering of something cool you made today.
+
+Please begin working on Project Three if you haven't already. You should be able to present some concepts/ideas on the Monday following our break.
+
+__Tutorial for today...__
+* _(recommended)_ `tutorial`: [Advanced Scattering](https://www.youtube.com/watch?v=N7CDHwgWKVo)
+* alternative `tutorial`: [Create a Diamond](https://youtu.be/zGZ-uljuCfI?si=xwwrNcf1HEx1nIxd)
+* __Important__ notes for maximizing your skill growth:
+  * Take your time with the tutorials. The slower you go--- the more you learn.
+  * Don't be a painstaking perfectionist; get the main idea and don't worry if your work doesn't look exactly like the tutorial.
+  * Some of these tutorials have external/3rd-party rendering software such as Redshift/Renderman. Don't worry too much about that; you can skip that content and use Mantra (Houdini's native renderer that we have already practiced with).
+
+### At Home
+- `continue` [Project Three](assignments/p3.html)
+- Please be prepared to present some progress after the break.
