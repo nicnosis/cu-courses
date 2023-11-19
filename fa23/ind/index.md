@@ -390,7 +390,8 @@ Today Monday (11/20) you will work asynchronously— We will not meet for class;
 
 Today you will complete more tutorials. The goal is to keep your skills sharp as you progress on Project Three.
 
-`Participation`: Respond to the Slack thread for 11/20 with a screenshot of something you created today (don't worry if it doesn't look exactly like the tutorials).
+`Participation`: Respond to the Slack thread for 11/20 with a screenshot of something cool you created today (don't worry if it doesn't look exactly like the tutorials).
+* * One suggestion is to just show off a color palette you made for the color system.
 
 #### Regarding Project Three
 Please begin working on Project Three if you haven't already.
@@ -401,8 +402,10 @@ __Tutorials for this week:__
 1. [Create a Figma Design System pt. 1](https://youtu.be/G1xmkQeExJo?si=GJ11nRfu_I-l0Utk)
 2. [Create a Figma Design System pt. 2](https://youtu.be/uSZirUYhtf4?si=0HyOSTCuBkR9BVuv)
 3. [Create a Figma Design System pt. 3](https://youtu.be/2bkj_IqDs2I?si=NnpioWLnXNLvf89C)
+4. [Create a Figma Design System pt. 4](https://youtu.be/cOHx7bTo0KU?si=3T2Q8h9KDYOnRYFW)
 
 Remember to submit your `participation` screenshot to the Slack thread.
+* One suggestion is to just show off a color palette you made for the color system.
 
 If you want to take things a step further, these are also good:
  * [Auto Layout & Constraints](https://youtu.be/rsE9MBOHQjE?si=Etbm2WUHnFjgKLxp)

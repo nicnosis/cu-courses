@@ -404,3 +404,32 @@ For Monday (11/20), you must have your Project 3 proposal completed.
 
 * `begin` [Homework Three](assignments/hw3.html)
 * `begin` [Project Three](assignments/p3.html)
+
+## Week 13
+### In Class
+#### Monday - 11/20
+Today Monday (11/20) you will work asynchronously— We will not meet for class; you will work independently.
+
+
+
+#### Today's videos
+`Participation`: You will watch the following videos and write down three of your biggest takeaways and how you might apply them to your project.
+- [Use this form](https://forms.gle/rossJ5XViiBfBZtP6) to submit your participation
+
+__Please watch:__
+ - [3 - Working on a Design Team](https://www.youtube.com/watch?v=yG6wbR03bLs&list=PLzKJi2GjpkEFsV13D3WPm5s6tZVkvKJ1-&index=4)
+ - [4 - How to Narrow Down Your Design Ideas](https://www.youtube.com/watch?v=48x0psjq6Uk&list=PLzKJi2GjpkEFsV13D3WPm5s6tZVkvKJ1-&index=5)
+ - If you didn't watch the first two videos from last week, you should really go back and do so.
+
+#### Regarding Project Three
+If you haven't submitted your [Project Three proposal](https://forms.gle/ybYmcqypzYDmneFf6) do so immediately.
+
+Please begin working on Project Three if you haven't already.
+ - Remember that since designing a website is one of your deliverables, you should already have chosen a provider (e.g. Wix or Squarespace) and get familiar with the basics - How to add text, images etc.
+ - You are responsible for acquiring the technical skills that go into your site.
+
+
+
+### At Home
+* `complete` [Homework Three](assignments/hw3.html)
+* `continue` [Project Three](assignments/p3.html)
