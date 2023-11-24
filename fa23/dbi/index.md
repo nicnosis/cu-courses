@@ -433,3 +433,22 @@ Please begin working on Project Three if you haven't already.
 ### At Home
 * `complete` [Homework Three](assignments/hw3.html)
 * `continue` [Project Three](assignments/p3.html)
+
+
+## Week 14
+### In Class
+#### Monday - 11/27
+Let's work on Project Three.
+
+If you haven't submitted your [Project Three proposal](https://forms.gle/ybYmcqypzYDmneFf6) do so immediately.
+
+Some of you will be at different stages of your Project and that's okay.
+ - If you have a website or social profile up (even if it's incomplete) then share that
+ - If you have inspiration images, then share those
+
+First, you will share in small groups.
+
+Then, we will examine as a class.
+
+### At Home
+- `continue` [Project Three](assignments/p3.html)

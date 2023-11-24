@@ -419,3 +419,23 @@ You can also find [the full playlist here](https://www.youtube.com/playlist?list
 ### At Home
 * `continue` [Project Three](assignments/p3.html)
 * Please remember to submit your concept as a `pdf` to the slack thread by `Sunday Nov 26th at 11:59pm`.
+
+
+
+## Week 14
+### In Class
+#### Monday - 11/27
+Let's work on Project Three.
+
+Some of you will be at different stages of your Project and that's okay.
+- If you have completed your concept document, then share that.
+- If you have inspiration images, share them
+- If you don't have anything yet, at least share your idea.
+
+First, you will share in small groups.
+
+Then, we will examine as a class.
+
+
+### At Home
+- `continue` [Project Three](assignments/p3.html)

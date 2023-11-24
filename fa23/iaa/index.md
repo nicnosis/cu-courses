@@ -444,3 +444,23 @@ __Tutorial for today...__
 ### At Home
 - `continue` [Project Three](assignments/p3.html)
 - Please be prepared to present some progress after the break.
+
+
+
+## Week 14
+### In Class
+#### Monday - 11/27
+Let's work on Project Three.
+
+Some of you will be at different stages of your Project and that's okay.
+ - If you have completed progress (something visual to share) then share that.
+ - If you have inspiration images, then share those
+ - If not, then share your idea
+
+First, you will share in small groups.
+
+Then, we will examine as a class.
+
+
+### At Home
+- `continue` [Project Three](assignments/p3.html)
