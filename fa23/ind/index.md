@@ -436,6 +436,19 @@ First, you will share in small groups.
 
 Then, we will examine as a class.
 
+#### Wednesday - 11/29
+Today before you get started:
+- Go to Slack thread (1)--- Write down a mini-goal for today's session
+
+Then, when you're done:
+- Post in Slack thread (2)--- Write down a milestone for Monday.
+
+We will have a few Zoom rooms in which to work:
+1. Study Hall--- This is a quieter room. Of course, you can still talk, but it's designed to be used for deep focus
+2. Café--- This is a good place if you want to do more conversation/discussion. Might be useful for peer feedback
+3. Huddle rooms--- These are for 1-on-1 or small meetings.
+
 
 ### At Home
 - `continue` [Project Three](assignments/p3.html)
+- Please be prepared for your `progress check` on Monday.
