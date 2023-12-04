@@ -466,3 +466,11 @@ We will have a few Zoom rooms in which to work:
 ### At Home
 - `continue` [Project Three](assignments/p3.html)
 - Please be prepared for your `progress check` on Monday.
+
+## Week 15
+### In Class
+#### Monday - 12/4
+Progress Check!
+
+### At Home
+- `continue` [Project Three](assignments/p3.html)
