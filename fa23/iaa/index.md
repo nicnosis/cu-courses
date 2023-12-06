@@ -484,5 +484,8 @@ We will have a few Zoom rooms in which to work:
 #### Monday - 12/4
 Progress Check!
 
+#### Monday - 12/6
+Today's the final day... let's make it count!
+
 ### At Home
 - `continue` [Project Three](assignments/p3.html)
